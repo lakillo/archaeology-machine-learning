@@ -1,7 +1,7 @@
 # 👋 welcome to the archaeology machine learning repository
 
 ## 📖 introduction to the project
-Machine learning (ML) techniques present new ways of approaching archaeological questions and the number of projects using these techniques continues to grow. 
+Machine learning (ML) techniques present new ways of approaching archaeological research questions and interest in applying these methods continues to grow. 
 This repository documents the application of ML techniques to archaeological data, aiming to assist those working in the field by:
 
 * providing an overview of the ways ML is being applied in archaeology
