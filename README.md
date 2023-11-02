@@ -9,6 +9,8 @@ This repository documents the application of ML techniques to archaeological dat
 * encouraging the sharing of code, data, and other resources
 * collecting together the resources needed for work be built upon
 
+By doing this, we hope to support practitioners to critically apply, or contribute to conversations about, machine learning techniques for archaeology.
+
 ## ✅ how to contribute
 This project is open for contributions! Check out the [roadmap](https://github.com/users/lakillo/projects/3/views/1) for contribution ideas. 
 To contribute to this repository simply fork a copy, make your edits, and create a pull request.
