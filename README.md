@@ -12,8 +12,7 @@ This repository documents the application of ML techniques to archaeological dat
 By doing this, we hope to support practitioners to critically apply, or contribute to conversations about, machine learning techniques for archaeology.
 
 ## ✅ how to contribute
-This project is open for contributions! Check out the [roadmap](https://github.com/users/lakillo/projects/3/views/1) for contribution ideas. 
-To contribute to this repository simply fork a copy, make your edits, and create a pull request.
+This project is open for contributions! Check out the project [🗺️ roadmap](https://github.com/lakillo/archaeology-machine-learning/issues/3) for contribution ideas and guidelines.
 
 ## 🙏 acknowledgements
 This project was inspired by the [satellite-image-deep-learning](https://github.com/satellite-image-deep-learning/) project, and was kicked off as part of the [8th cohort](https://openlifesci.org/openseeds/ols-8/projects-participants.html#projects) of the [Open Life Science program](https://openlifesci.org/).
