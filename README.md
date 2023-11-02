@@ -7,7 +7,7 @@ This repository documents the application of ML techniques to archaeological dat
 * providing an overview of the ways ML is being applied in archaeology
 * sparking new ideas whilst reducing duplication of work
 * encouraging the sharing of code, data, and other resources
-* collecting together the resources needed for work be built upon
+* making resources more [FAIR](https://www.nature.com/articles/sdata201618) (Findable, Accessible, Interoperable, and Reuseable)
 
 By doing this, we hope to support practitioners to critically apply, or contribute to conversations about, machine learning techniques for archaeology.
 
