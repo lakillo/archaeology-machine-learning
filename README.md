@@ -15,7 +15,7 @@ By doing this, we hope to support practitioners to critically apply, or contribu
 This project is open for contributions! Check out the project [🗺️ roadmap](https://github.com/lakillo/archaeology-machine-learning/issues/3) for contribution ideas and guidelines.
 
 ## 🙏 acknowledgements
-This project was inspired by the [satellite-image-deep-learning](https://github.com/satellite-image-deep-learning/) project, and was kicked off as part of the [8th cohort](https://openlifesci.org/openseeds/ols-8/projects-participants.html#projects) of the [Open Life Science program](https://openlifesci.org/).
+This project was inspired by the [satellite-image-deep-learning](https://github.com/satellite-image-deep-learning/) project, and was kicked off as part of [Open Seeds cohort 8](https://openlifesci.org/openseeds/ols-8/).
 
 ## 📁 repository contents
 > [!IMPORTANT]
