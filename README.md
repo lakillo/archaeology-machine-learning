@@ -19,6 +19,9 @@ To contribute to this repository simply fork a copy, make your edits, and create
 This project was inspired by the [satellite-image-deep-learning](https://github.com/satellite-image-deep-learning/) project, and was kicked off as part of the [8th cohort](https://openlifesci.org/openseeds/ols-8/projects-participants.html#projects) of the [Open Life Science program](https://openlifesci.org/).
 
 ## 📁 repository contents
+> [!IMPORTANT]
+> This repo is currently under construction.
+
 The repository is structured into sections by technique, with linked examples illustrating the applications of each technique. Use the contents list below ⬇️ to browse the techniques included so far and jump to specific sections, or scroll down to view everything.
 
 > 1. [classification](https://github.com/lakillo/archaeology-machine-learning/edit/main/README.md#classification)
@@ -31,8 +34,6 @@ The repository is structured into sections by technique, with linked examples il
 ---
 
 ## techniques
-> [!NOTE]
-> Contents under construction.
 
 ### classification
 * [title](url) —> some description
