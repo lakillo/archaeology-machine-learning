@@ -14,7 +14,7 @@ if you don't have a github account but wanted to share feedback or ask questions
 * email Lucy at l.killoran.1@research.gla.ac.uk
 
 if you do have a github account:
-* introduce yourself to the community by posting a message on our [community introductions issue](link)
+* introduce yourself to the community by posting a message on our [community introductions issue](https://github.com/lakillo/archaeology-machine-learning/issues/7)
 * report a mistake or error in the repository contents by [creating an issue](https://github.com/lakillo/archaeology-machine-learning/issues/new)
 
 ### 🪴 intermediate
