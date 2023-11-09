@@ -20,7 +20,7 @@ if you do have a github account:
 ### 🪴 intermediate
 * check out the current [milestones](https://github.com/lakillo/archaeology-machine-learning/milestones) we're working towards and help us resolve one of the open issues*
 
-*this will involve making a pull request to ask for your changes to be merged into the main project, see [making a pull request](https://github.com/lakillo/archaeology-machine-learning/new/main#making-a-pull-request) below for details on how to do this.
+*this will involve making a pull request to ask for your changes to be merged into the main project, see [making a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#making-a-pull-request) below for details on how to do this.
 
 ### 🌴 advanced
 * suggest improvements for the project or help us plan our next milestones by [creating an issue](https://github.com/lakillo/archaeology-machine-learning/issues/new)
