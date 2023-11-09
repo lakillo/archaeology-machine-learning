@@ -2,6 +2,9 @@
 ![](https://img.shields.io/github/issues/{lakillo}/{archaeology-machine-learning}.svg)
 <!-- [![visits](https://hits.sh/github.com/lakillo/archaeology-machine-learning.svg?label=visits&color=11cc9a)](https://hits.sh/github.com/lakillo/archaeology-machine-learning/) -->
 
+> [!IMPORTANT]
+> This repo is currently under construction.
+
 # 👋 welcome to the archaeology machine learning repository
 
 ## 📖 introduction to the project
@@ -18,25 +21,34 @@ By doing this, we hope to support practitioners to critically apply, or contribu
 ## ✅ how to contribute
 This project is open for contributions! Check out the project [🗺️ roadmap](https://github.com/lakillo/archaeology-machine-learning/issues/3) for contribution ideas and guidelines.
 
+Please use the below format for contributions:
+
+```
+|<!-- -->title | year | data | technique | paper | code<!-- -->|
+```
+
+This allows us to easily turn everything into a spreadsheet available for download with each release
+
 ## 🙏 acknowledgements
 This project was inspired by the [satellite-image-deep-learning](https://github.com/satellite-image-deep-learning/) project, and was kicked off as part of [Open Seeds cohort 8](https://openlifesci.org/openseeds/ols-8/).
 
 ## 📁 repository contents
-> [!IMPORTANT]
-> This repo is currently under construction.
+The repository is structured into sections by data type (e.g. remote sensing), and then technique, with linked examples illustrating the applications of each technique. Use the contents list below ⬇️ to browse the techniques included so far and jump to specific sections, or scroll down to view everything.
 
-The repository is structured into sections by technique, with linked examples illustrating the applications of each technique. Use the contents list below ⬇️ to browse the techniques included so far and jump to specific sections, or scroll down to view everything.
-
-> 1. [classification](https://github.com/lakillo/archaeology-machine-learning/edit/main/README.md#classification)
-> 2. [object detection](link)
+### 🛰️ remote sensing
+> 1. [classification](https://github.com/lakillo/archaeology-machine-learning/edit/main/README.md###classification)
+> 2. [segmentation](https://github.com/lakillo/archaeology-machine-learning/edit/main/README.md###segmentation)
 > 3. [technique](link)
-> 4. [technique](link)
-> 5. [technique](link)
-> 6. [technique](link)
 
 ---
 
-## techniques
-
+## 🛰️ remote sensing
 ### classification
-* [title](url) —> some description
+| title | year | data | technique | paper | code |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+|<!-- -->Using CarcassonNet to automatically detect and trace hollow roads in LiDAR data from the Netherlands | 2021 | lidar | classification | https://doi.org/10.1016/j.culher.2020.10.009 | code:tbc <!-- -->|
+
+### segmentation
+| title | year | data | technique | paper | code |
+| ---- | ---- | ---- | ---- | ---- | ---- 
+|<!-- -->Investigating ancient agricultural field systems in Sweden from airborne LIDAR data by using convolutional neural network | 2022 | lidar | segmentation | https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886 | code:tbc <!-- -->|
