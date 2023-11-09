@@ -36,8 +36,8 @@ This project was inspired by the [satellite-image-deep-learning](https://github.
 The repository is structured into sections by data type (e.g. remote sensing), and then technique, with linked examples illustrating the applications of each technique. Use the contents list below ⬇️ to browse the techniques included so far and jump to specific sections, or scroll down to view everything.
 
 ### 🛰️ remote sensing
-> 1. [classification](https://github.com/lakillo/archaeology-machine-learning/edit/main/README.md###classification)
-> 2. [segmentation](https://github.com/lakillo/archaeology-machine-learning/edit/main/README.md###segmentation)
+> 1. [classification](https://github.com/lakillo/archaeology-machine-learning/tree/main#classification)
+> 2. [segmentation](https://github.com/lakillo/archaeology-machine-learning/tree/main#segmentation)
 > 3. [technique](link)
 
 ---
