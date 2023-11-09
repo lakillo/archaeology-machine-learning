@@ -1,4 +1,5 @@
 [![license: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![GitHub issues](https://img.shields.io/github/issues/lakillo/archaeology-machine-learning)
 <!-- [![visits](https://hits.sh/github.com/lakillo/archaeology-machine-learning.svg?label=visits&color=11cc9a)](https://hits.sh/github.com/lakillo/archaeology-machine-learning/) -->
 
 # 👋 welcome to the archaeology machine learning repository
