@@ -50,5 +50,5 @@ The repository is structured into sections by data type (e.g. remote sensing), a
 
 ### segmentation
 | title | year | data | technique | paper | code |
-| ---- | ---- | ---- | ---- | ---- | ---- 
+| ---- | ---- | ---- | ---- | ---- | ---- |
 |<!-- -->Investigating ancient agricultural field systems in Sweden from airborne LIDAR data by using convolutional neural network | 2022 | lidar | segmentation | https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886 | code:tbc <!-- -->|
