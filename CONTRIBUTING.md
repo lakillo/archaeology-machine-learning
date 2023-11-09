@@ -8,7 +8,7 @@ Since this project is about collecting resources, the most simple and helpful co
 
 ![Screenshot 2023-11-09 at 15 56 16](https://github.com/lakillo/archaeology-machine-learning/assets/81825476/4c7de836-36a3-4f9b-92f0-88c0da963e5d)
 
-To contribute an example by inserting a row into an existing table, please use the following formatting:
+To contribute an example by inserting a row into an existing table, please use the following formatting (for why this format, see [here](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#repo-style-guide)):
 
 ```
 |<!-- -->title | year | data | technique | paper | code<!-- -->|
