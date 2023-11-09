@@ -2,7 +2,7 @@
 
 We aim to foster a friendly and positive community environment and we welcome everyone that would like to participate. This code of conduct outlines our expectations of participants within the community, as well as the steps to report unacceptable behavior. 
 
-By participating in this community, participants agree: (1) to abide by this code of conduct, and (2) to ensure that participation in this project and its community a harassment-free experience for everyone, regardless of age, gender, gender identity or expression, disability, culture, ethnicity, language, national origin, personal appearance, political beliefs, profession, race, religion, size, sexual orientation, family or socioeconomic status, or technical ability.
+By participating in this community, participants agree: (1) to abide by this code of conduct, and (2) to ensure that participation in this project and its community is a harassment-free experience for everyone, regardless of age, gender, gender identity or expression, disability, culture, ethnicity, language, national origin, personal appearance, political beliefs, profession, race, religion, size, sexual orientation, family or socioeconomic status, or technical ability.
 
 Any form of behaviour to discriminate, exclude, intimidate, or cause discomfort, is a violation of the code of conduct. Whenever a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and do our best to right the wrong. Anyone who violates this code of conduct may be banned from the community.
 
