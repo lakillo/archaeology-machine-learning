@@ -2,9 +2,6 @@
 ![](https://img.shields.io/github/issues/{lakillo}/{archaeology-machine-learning}.svg)
 <!-- [![visits](https://hits.sh/github.com/lakillo/archaeology-machine-learning.svg?label=visits&color=11cc9a)](https://hits.sh/github.com/lakillo/archaeology-machine-learning/) -->
 
-> [!IMPORTANT]
-> This repo is currently under construction.
-
 # 👋 welcome to the archaeology machine learning repository
 
 ## 📖 introduction to the project
