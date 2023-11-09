@@ -21,7 +21,7 @@ This project is open for contributions!
 Check out our [🗺️ roadmap](https://github.com/lakillo/archaeology-machine-learning/issues/3) to get an overview of the current milestones we're working towards and find out how to participate.
 
 ## 🗞️ releases
-We will to make archived releases of this repository at regular intervals, and assign each release a citeable DOI.
+Archived releases of this repository with a citeable DOI will be made at regular intervals.
 
 ## 🙏 acknowledgements
 This project was inspired by the [satellite-image-deep-learning](https://github.com/satellite-image-deep-learning/) and [AncientMetagenomeDir](https://github.com/SPAAM-community/AncientMetagenomeDir) projects, and was kicked off as part of [Open Seeds cohort 8](https://openlifesci.org/openseeds/ols-8/).
