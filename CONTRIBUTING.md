@@ -10,20 +10,47 @@ This project and everyone participating in it is governed by our [code of conduc
 ## how to contribute
 
 ### 🌱 easy
-if you don't have a github account but wanted to share feedback or ask questions about the project:
+If you don't have a github account but wanted to share feedback or ask questions about the project:
 * email Lucy at l.killoran.1@research.gla.ac.uk
 
-if you do have a github account:
+If you do have a github account:
 * introduce yourself to the community by posting a message on our [community introductions issue](https://github.com/lakillo/archaeology-machine-learning/issues/7)
 * report a mistake or error in the repository contents by [creating an issue](https://github.com/lakillo/archaeology-machine-learning/issues/new)
 
 ### 🪴 intermediate
-* check out the current [milestones](https://github.com/lakillo/archaeology-machine-learning/milestones) we're working towards and help us resolve one of the open issues*
+* add examples to the main repository README file using correct formatting
+* check out the current [milestones](https://github.com/lakillo/archaeology-machine-learning/milestones) we're working towards and help us resolve one of the open issues
 
-*this will involve making a pull request to ask for your changes to be merged into the main project, see [making a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#making-a-pull-request) below for details on how to do this.
+*both of the above options will involve making a pull request to ask for your changes to be merged into the main project, see [making a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#making-a-pull-request) below for details on how to do this.
 
 ### 🌴 advanced
 * suggest improvements for the project or help us plan our next milestones by [creating an issue](https://github.com/lakillo/archaeology-machine-learning/issues/new)
+
+## formatting README contributions
+We use specific formatting for README contributions, e.g.:
+
+```
+|<!-- -->title | year | data | technique | paper | code<!-- -->|
+```
+
+This enables us to easily turn the README contents into a spreadsheet, which will be available for download with each archived release of the repository.
+
+To contribute a new section, please use the following formatting:
+
+```
+## high-level application area name (e.g. remote sensing, which includes data types aerial, lidar, satellite, etc)
+### first machine learning technique name (e.g. classification, segmentation)
+| title | year | data | technique | paper | code |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+|<!-- -->title | year | data | technique | paper | code<!-- -->|
+
+### second machine learning technique name (e.g. classification, segmentation)
+| title | year | data | technique | paper | code |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+|<!-- -->title | year | data | technique | paper | code<!-- -->|
+
+### third machine learning technique name ...
+```
 
 ## making a pull request
 This repository's contents is written in [github flavored markdown](https://guides.github.com/features/mastering-markdown/). To manage changes to the project's content we use [github's standard workflow](https://guides.github.com/introduction/flow/), which is based on contributors making requests for their changes to be pulled into the main project content (or, a pull request!).
