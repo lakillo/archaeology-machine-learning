@@ -34,9 +34,10 @@ If you experience or witness unacceptable behavior or have any other concerns, p
 
 All reports will be handled with discretion. In your report please include:
 
-* Your contact information.
-* Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well. Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger), please include a link.
-* Any additional information that may be helpful.
+* your contact information
+* names (real, nicknames, or pseudonyms) of any individuals involved, and those of any witnesses
+* your account of what occurred or is ongoing, including, if possible, links to any publicly available record
+* any additional information that may be helpful
 
 After filing a report, the incident will be reviewed, followed up with any additional questions, and a decision made as to how to respond. If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. If the complaint originates from a member of the response team, it will be handled by a different member of the response team. We will respect confidentiality requests for the purpose of protecting victims of abuse.
 
