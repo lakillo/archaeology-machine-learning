@@ -25,17 +25,18 @@ If you don't have a github account but wanted to share feedback or ask questions
 * email Lucy at l.killoran.1@research.gla.ac.uk
 
 If you do have a github account:
-* introduce yourself to the community by posting a message on our [community introductions issue](https://github.com/lakillo/archaeology-machine-learning/issues/7)
-* report a mistake, error, or missing section in the repository contents by [creating an issue](https://github.com/lakillo/archaeology-machine-learning/issues/new)
+* introduce yourself to the community by posting a message on our [👋 community introductions issue](https://github.com/lakillo/archaeology-machine-learning/issues/7)
+* what do you think about the project's overall vision? leave a comment on our [🗺️ roadmap](https://github.com/lakillo/archaeology-machine-learning/issues/3) and let us know!
+* report a mistake, error, or missing section in the repository contents by [📝 creating an issue](https://github.com/lakillo/archaeology-machine-learning/issues/new)
 
 ### 🪴 intermediate
 * add examples to the main repository README file following the [repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#repo-style-guide)
-* check out the current [milestones](https://github.com/lakillo/archaeology-machine-learning/milestones) we're working towards and help us resolve one of the open issues
+* check out the current [🐢 milestones](https://github.com/lakillo/archaeology-machine-learning/milestones) we're working towards and help us resolve one of the open issues
 
 *both of the above options will involve making a pull request to ask for your changes to be merged into the main project, see [making a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#making-a-pull-request) below for details on how to do this.
 
 ### 🌴 advanced
-* suggest improvements for the project or help us plan our next milestones by [creating an issue](https://github.com/lakillo/archaeology-machine-learning/issues/new)
+* suggest improvements for the project or help us plan our next milestones by [📝 creating an issue](https://github.com/lakillo/archaeology-machine-learning/issues/new)
 
 ## repo style guide
 Before making a contribution to the main repository contents (the README), please familiarise yourself with the information recorded for each example:
