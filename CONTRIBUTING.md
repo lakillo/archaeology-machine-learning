@@ -40,3 +40,6 @@ To make a pull request:
 8. pull requests will be merged  after at least one other person has reviewed the pull request and approved it
 
 For lots more heplful info, check out github's guidance on [collaborating with pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests).
+
+## attribution
+This document is adapted from the contributor guidelines for Open Life Science.
