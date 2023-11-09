@@ -24,12 +24,12 @@ Check out our [🗺️ roadmap](https://github.com/lakillo/archaeology-machine-l
 This project was inspired by the [satellite-image-deep-learning](https://github.com/satellite-image-deep-learning/) project, and was kicked off as part of [Open Seeds cohort 8](https://openlifesci.org/openseeds/ols-8/).
 
 ## 📁 repository contents
-The repository is structured into sections by data type (e.g. remote sensing), and then technique, with linked examples illustrating the applications of each technique. Use the contents list below ⬇️ to browse the techniques included so far and jump to specific sections, or scroll down to view everything.
+The repository is structured into sections by application area (e.g. remote sensing), and then by machine learning technique, with linked examples illustrating the uses of each technique. Use the contents list below ⬇️ to browse the application areas included so far and jump to specific sections, or scroll down to view everything.
 
 ### 🛰️ remote sensing
 > 1. [classification](https://github.com/lakillo/archaeology-machine-learning/tree/main#classification)
 > 2. [segmentation](https://github.com/lakillo/archaeology-machine-learning/tree/main#segmentation)
-> 3. [technique](link)
+<!-- > 3. [technique](link) -->
 
 ---
 
