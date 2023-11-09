@@ -27,15 +27,15 @@ If you do have a github account:
 * suggest improvements for the project or help us plan our next milestones by [creating an issue](https://github.com/lakillo/archaeology-machine-learning/issues/new)
 
 ## repo style guide
-We use specific formatting for README contributions, e.g.:
+We use specific formatting for README contributions. This formatting enables us to easily turn the README contents into a spreadsheet, which will be available for download with each archived release of the repository.
+
+To contribute an individual example to a section, please us the following formatting:
 
 ```
 |<!-- -->title | year | data | technique | paper | code<!-- -->|
 ```
 
-This enables us to easily turn the README contents into a spreadsheet, which will be available for download with each archived release of the repository.
-
-To contribute a new section, please use the following formatting:
+To contribute a whole new section or subsection, please use the following formatting:
 
 ```
 ## high-level application area name (e.g. remote sensing, which includes data types aerial, lidar, satellite, etc)
