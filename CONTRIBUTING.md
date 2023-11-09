@@ -27,7 +27,13 @@ If you do have a github account:
 * suggest improvements for the project or help us plan our next milestones by [creating an issue](https://github.com/lakillo/archaeology-machine-learning/issues/new)
 
 ## repo style guide
-We use specific formatting for README contributions. This formatting enables us to easily turn the README contents into a spreadsheet, which will be available for download with each archived release of the repository.
+Before making a contribution to the main repository contents (the README), please familiarise yourself with the information recorded for each example:
+* title: the title of the project / tool / academic paper
+* year: the year of publication / release
+* data: the data type used (e.g. aerial imagery, lidar, satellite)
+* technique: the machine learning technique used (e.g. classification, segmentation)
+
+We use specific formatting when documenting examples in the README. This formatting enables us to easily turn the README contents into a spreadsheet, which will be available for download with each archived release of the repository.
 
 To contribute an individual example to a section, please us the following formatting:
 
@@ -39,12 +45,12 @@ To contribute a whole new section or subsection, please use the following format
 
 ```
 ## high-level application area name (e.g. remote sensing, which includes data types aerial, lidar, satellite, etc)
-### first machine learning technique name (e.g. classification, segmentation)
+### first machine learning technique name
 | title | year | data | technique | paper | code |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 |<!-- -->title | year | data | technique | paper | code<!-- -->|
 
-### second machine learning technique name (e.g. classification, segmentation)
+### second machine learning technique name
 | title | year | data | technique | paper | code |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 |<!-- -->title | year | data | technique | paper | code<!-- -->|
