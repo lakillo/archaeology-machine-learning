@@ -18,7 +18,7 @@ If you do have a github account:
 * report a mistake or error in the repository contents by [creating an issue](https://github.com/lakillo/archaeology-machine-learning/issues/new)
 
 ### 🪴 intermediate
-* add examples to the main repository README file following the [[repo style guide]](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#repo-style-guide)
+* add examples to the main repository README file following the [repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#repo-style-guide)
 * check out the current [milestones](https://github.com/lakillo/archaeology-machine-learning/milestones) we're working towards and help us resolve one of the open issues
 
 *both of the above options will involve making a pull request to ask for your changes to be merged into the main project, see [making a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#making-a-pull-request) below for details on how to do this.
