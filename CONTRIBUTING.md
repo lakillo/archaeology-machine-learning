@@ -1,11 +1,22 @@
 # contributing
-:tada: Thanks for taking the time to contribute! :tada:
+:tada: thanks so much for considering contributing to this project! :tada:
 
-You can make this project better by contributing to it. You can report mistakes and errors, create more content, or help with project planning. Whatever your background, there's a way to contribute: through the github website or desktop app, via the command-line, or even without
-dealing with github.
+A quick note before we get started: this project and everyone participating in it is governed by our [code of conduct](CODE_OF_CONDUCT.md). By participating you are expected to uphold this code, so please make yourself familiar with it.
 
-## code of conduct
-This project and everyone participating in it is governed by our [code of conduct](CODE_OF_CONDUCT.md). By participating you are expected to uphold this code, so please make yourself familiar with it.
+## 🚨 TL;DR
+Since this project is about collecting resources, the most simple and helpful contribution you could make is to add one (or more) example(s) to the main repository README file, i.e. one of these:
+
+![Screenshot 2023-11-09 at 15 56 16](https://github.com/lakillo/archaeology-machine-learning/assets/81825476/4c7de836-36a3-4f9b-92f0-88c0da963e5d)
+
+To contribute an example by inserting a row into an existing table, please use the following formatting:
+
+```
+|<!-- -->title | year | data | technique | paper | code<!-- -->|
+```
+
+Simple contributions of this kind are hugely appreciated and make all the difference ✨
+
+If the section you want to contribute to doesn't exist yet, please read on for more info on how to expand the existing repository structure.
 
 ## how to contribute
 
@@ -15,7 +26,7 @@ If you don't have a github account but wanted to share feedback or ask questions
 
 If you do have a github account:
 * introduce yourself to the community by posting a message on our [community introductions issue](https://github.com/lakillo/archaeology-machine-learning/issues/7)
-* report a mistake or error in the repository contents by [creating an issue](https://github.com/lakillo/archaeology-machine-learning/issues/new)
+* report a mistake, error, or missing section in the repository contents by [creating an issue](https://github.com/lakillo/archaeology-machine-learning/issues/new)
 
 ### 🪴 intermediate
 * add examples to the main repository README file following the [repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#repo-style-guide)
