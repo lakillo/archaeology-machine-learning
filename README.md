@@ -16,7 +16,7 @@ This repository documents the application of ML techniques to archaeological dat
 * encouraging the sharing of code, data, and other resources
 * making resources more [FAIR](https://www.nature.com/articles/sdata201618) (Findable, Accessible, Interoperable, and Reuseable)
 
-By doing this, we hope to support practitioners to critically apply, or contribute to conversations about, machine learning techniques for archaeology.
+By doing this, we hope to support practitioners to **learn about, critically apply, or contribute to conversations about, machine learning techniques for archaeology**.
 
 ## ✅ how to contribute
 This project is open for contributions! Check out the project [🗺️ roadmap](https://github.com/lakillo/archaeology-machine-learning/issues/3) for contribution ideas and guidelines.
