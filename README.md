@@ -38,11 +38,11 @@ The repository is structured into sections by application area (e.g. remote sens
 
 ## 🛰️ remote sensing
 ### classification
-| title | year | data | technique | paper | code |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|<!-- -->Using CarcassonNet to automatically detect and trace hollow roads in LiDAR data from the Netherlands | 2021 | lidar | classification | https://doi.org/10.1016/j.culher.2020.10.009 | code:tbc <!-- -->|
+| title | authors | year | data type | technique | paper | code | data |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|<!-- -->Using CarcassonNet to automatically detect and trace hollow roads in LiDAR data from the Netherlands | Verschoof-van der Vaart, Landauer | 2021 | lidar | classification | [paper](https://doi.org/10.1016/j.culher.2020.10.009) | code:tbc | data:tbc <!-- -->|
 
 ### segmentation
-| title | year | data | technique | paper | code |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|<!-- -->Investigating ancient agricultural field systems in Sweden from airborne LIDAR data by using convolutional neural network | 2022 | lidar | segmentation | https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886 | code:tbc <!-- -->|
+| title | authors | year | data type | technique | paper | code | data |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|<!-- -->Investigating ancient agricultural field systems in Sweden from airborne LIDAR data by using convolutional neural network | Küçükdemirci, et al | 2022 | lidar | segmentation | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886) | code:tbc | data:tbc <!-- -->|
