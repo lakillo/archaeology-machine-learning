@@ -78,9 +78,9 @@ When making a contribution to the main repository contents in the README, please
 * **year:** the year of publication / release
 * **data:** the data type used (e.g. aerial imagery, lidar, satellite)
 * **technique**: the machine learning technique used (e.g. classification, segmentation)
-* **paper:** the link to the paper (if there is one) in markdown style [paper](link), or paper:tbc if no link available
-* **code:** the link to the code in markdown style [code](link), or code:tbc if no link available
-* **data:** the link to the data in markdown style [data](link), or data:tbc if no link available
+* **paper:** the link to the paper (if there is one) in markdown style ```[paper](link)```, or paper:tbc if no link available
+* **code:** the link to the code in markdown style ```[code](link)```, or code:tbc if no link available
+* **data:** the link to the data in markdown style ```[data](link)```, or data:tbc if no link available
 
 We use this formatting because it:
 * lets us to easily turn the README contents into a spreadsheet which will be available for download with each archived release of the repository
