@@ -35,7 +35,7 @@ If the section you want to contribute to doesn't exist yet, please read on for m
 3. help us resolve any open issues by [🎣 making a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#making-a-pull-request)
 
 ### add new examples to existing sections in the README
-1. familiarise yourself with the [💅 repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#repo-style-guide)
+1. take note of the [💅 repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#repo-style-guide)
 2. to contribute by inserting a row into an existing section of the README, copy and paste the below template, replacing the text with your contribution:
 
 ```
@@ -43,7 +43,7 @@ If the section you want to contribute to doesn't exist yet, please read on for m
 ```
 
 ### add new sections to the README
-1. familiarise yourself with the [repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#repo-style-guide)
+1. take note of the [repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#repo-style-guide)
 2. to contribute a new section or subsection, copy and paste the below template, replacing the text with your contribution:
 
 ```
@@ -62,7 +62,7 @@ If the section you want to contribute to doesn't exist yet, please read on for m
 ```
 
 ### help us plan the project vision and roadmap
-1. familiarise yourself with our project [🗺️ roadmap](https://github.com/lakillo/archaeology-machine-learning/issues/3)
+1. read our project [🗺️ roadmap](https://github.com/lakillo/archaeology-machine-learning/issues/3)
 2. in the [🗺️ project vision and roadmap](https://github.com/lakillo/archaeology-machine-learning/milestone/2) milestone, comment on an open issue or [📝 create a new issue](https://github.com/lakillo/archaeology-machine-learning/issues/new) explaining your idea
 3. help us resolve any open issues relating to project planning by [🎣 making a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#making-a-pull-request)
 
@@ -73,14 +73,14 @@ If the section you want to contribute to doesn't exist yet, please read on for m
 This repository's contents is written in [github flavored markdown](https://guides.github.com/features/mastering-markdown/). 
 
 When making a contribution to the main repository contents in the README, please use the below structure and formatting:
-* title: the title of the project / tool / academic paper
-* authors: maximum 2 names, or first author and et al if there are more than two authors
-* year: the year of publication / release
-* data: the data type used (e.g. aerial imagery, lidar, satellite)
-* technique: the machine learning technique used (e.g. classification, segmentation)
-* paper: the link to the paper (if there is one) in markdown style [paper](link), or paper:tbc if no link available
-* code : the link to the code in markdown style [code](link), or code:tbc if no link available
-* dataset : the link to the data in markdown style [data](link), or datasest:tbc if no link available
+* **title:** the title of the project / tool / academic paper
+* **authors:** maximum 2 names, or first author and et al if there are more than two authors
+* **year:** the year of publication / release
+* **data:** the data type used (e.g. aerial imagery, lidar, satellite)
+* **technique**: the machine learning technique used (e.g. classification, segmentation)
+* **paper:** the link to the paper (if there is one) in markdown style [paper](link), or paper:tbc if no link available
+* **code:** the link to the code in markdown style [code](link), or code:tbc if no link available
+* **data:** the link to the data in markdown style [data](link), or data:tbc if no link available
 
 We use this formatting because it:
 * lets us to easily turn the README contents into a spreadsheet which will be available for download with each archived release of the repository
