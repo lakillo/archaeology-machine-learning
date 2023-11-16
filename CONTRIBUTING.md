@@ -30,24 +30,27 @@ If the section you want to contribute to doesn't exist yet, please read on for m
 
 ### fix typos or errors in existing content
 1. report a mistake or error in the repository contents by [📝 creating an issue](https://github.com/lakillo/archaeology-machine-learning/issues/new)
-2. help us resolve any open issues relating to errors by [🎣 making a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request)
+2. help us resolve any open issues relating to errors (you may need to [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request))
 
 ### work on an open issue
 1. check out the current [🐢 milestones](https://github.com/lakillo/archaeology-machine-learning/milestones) we're working towards
 2. click into a milestone to see the open issues
-3. help us resolve any open issues by [🎣 making a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request)
+3. help us resolve any open issues (you may need to [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request))
 
 ### add new examples to existing sections in the README
 1. take note of the [💅 repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-repo-style-guide)
-2. use the below template to insert a row into an existing section of the README:
+2. fork and clone the repo, and make a new branch (see instructions in [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request))
+3. use the below template to insert a row into an existing section of the README:
 
 ```
 |<!-- -->title | authors | year | data type | technique | [paper](link) or paper:tbc | [code](link) or code:tbc | [data](link) or data:tbc<!-- -->|
 ```
+4. [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request)
 
 ### add new sections to the README
 1. take note of the [💅 repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-repo-style-guide)
-2. use the below template to add a new section or subsection to the README:
+2. fork and clone the repo, and make a new branch (see instructions in [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request))
+3. use the below template to add a new section or subsection to the README:
 
 ```
 ## high-level application area name (e.g. remote sensing, which includes data types aerial, lidar, satellite, etc)
@@ -63,11 +66,12 @@ If the section you want to contribute to doesn't exist yet, please read on for m
 
 ### third machine learning technique name ...
 ```
+4. [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request)
 
 ### help us plan the project vision and roadmap
 1. read our project [🗺️ roadmap](https://github.com/lakillo/archaeology-machine-learning/issues/3)
 2. in the [🗺️ project vision and roadmap](https://github.com/lakillo/archaeology-machine-learning/milestone/2) milestone, comment on an open issue or [📝 create a new issue](https://github.com/lakillo/archaeology-machine-learning/issues/new) explaining your idea
-3. help us resolve any open issues relating to project planning by [🎣 making a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request)
+3. help us resolve any open issues relating to project planning (you may need to [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request))
 
 ### contribute without a github account
 1. get in touch via email at l.killoran.1@research.gla.ac.uk
