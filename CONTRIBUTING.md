@@ -3,6 +3,8 @@
 
 A quick note before we get started: this project and everyone participating in it is governed by our [code of conduct](CODE_OF_CONDUCT.md). By participating you are expected to uphold this code, so please make yourself familiar with it.
 
+There are many options for participating in this project; whether you're a seasoned github user, or you're new here and [don't have an account](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#contribute-without-a-github-account). Read on to find out more.
+
 ## ⏩ TL;DR
 Since this project is about collecting resources, the most simple and helpful contribution you could make is to add one (or more) example(s) to the main repository README file, i.e. one of these:
 
