@@ -3,22 +3,23 @@
 
 A quick note before we get started: this project and everyone participating in it is governed by our [code of conduct](CODE_OF_CONDUCT.md). By participating you are expected to uphold this code, so please make yourself familiar with it.
 
-There are many options for participating in this project; whether you're a seasoned github user, or you're new here and [don't have an account](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#contribute-without-a-github-account). Read on to find out more.
+There are many options for participating in this project; whether you're a seasoned github user and are ready to [📝 create an issue](https://github.com/lakillo/archaeology-machine-learning/issues/new) or [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request), or you're new here and [don't have an account](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#contribute-without-a-github-account). Read on to find out more.
 
 ## ⏩ TL;DR
 Since this project is about collecting resources, the most simple and helpful contribution you could make is to add one (or more) example(s) to the main repository README file, i.e. one of these:
 
 <img width="854" alt="Screenshot 2023-11-16 at 10 57 59" src="https://github.com/lakillo/archaeology-machine-learning/assets/81825476/7dc06a90-8ef0-4605-aa5b-05e4763d8647">
 
-To contribute an example by inserting a row into an existing section of the README, please copy and paste the below template, replacing the text with your contribution:
-
+To contribute an example by inserting a row into an existing section of the README:
+1. take note of the [💅 repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-repo-style-guide)
+2. fork and clone the repo, and make a new branch (see instructions in [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request))
+3. use the below template to add examples to the new branch:
 ```
 |<!-- -->title | authors | year | data type | technique | [paper](link) or paper:tbc | [code](link) or code:tbc | [data](link) or data:tbc<!-- -->|
 ```
+3. [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request)
 
 Simple contributions of this kind are hugely appreciated and make all the difference ✨
-
-Please follow the [💅 repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-repo-style-guide) for formatting.
 
 If the section you want to contribute to doesn't exist yet, please read on for more info on how to expand the existing repository structure.
 
@@ -38,7 +39,7 @@ If the section you want to contribute to doesn't exist yet, please read on for m
 
 ### add new examples to existing sections in the README
 1. take note of the [💅 repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-repo-style-guide)
-2. to contribute by inserting a row into an existing section of the README, copy and paste the below template, replacing the text with your contribution:
+2. use the below template to insert a row into an existing section of the README:
 
 ```
 |<!-- -->title | authors | year | data type | technique | [paper](link) or paper:tbc | [code](link) or code:tbc | [data](link) or data:tbc<!-- -->|
@@ -46,7 +47,7 @@ If the section you want to contribute to doesn't exist yet, please read on for m
 
 ### add new sections to the README
 1. take note of the [💅 repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-repo-style-guide)
-2. to contribute a new section or subsection, copy and paste the below template, replacing the text with your contribution:
+2. use the below template to add a new section or subsection to the README:
 
 ```
 ## high-level application area name (e.g. remote sensing, which includes data types aerial, lidar, satellite, etc)
