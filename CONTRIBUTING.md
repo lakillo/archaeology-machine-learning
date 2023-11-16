@@ -1,4 +1,4 @@
-# ✅ contributing
+# ✅ contributor guidelines
 :tada: thanks so much for considering contributing to this project! :tada:
 
 A quick note before we get started: this project and everyone participating in it is governed by our [code of conduct](CODE_OF_CONDUCT.md). By participating you are expected to uphold this code, so please make yourself familiar with it.
