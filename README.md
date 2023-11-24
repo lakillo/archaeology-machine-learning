@@ -35,8 +35,8 @@ The repository is structured into sections by application area (e.g. remote sens
 <!-- > 3. [technique](link) -->
 
 ### 📚️ textual analysis
-> 1. [language models](https://github.com/lakillo/archaeology-machine-learning/tree/main#language_models)
-> 2. [named entity recognition](https://github.com/lakillo/archaeology-machine-learning/tree/main#named_entity_recognition)
+> 1. [language models](#language-models)
+> 2. [named entity recognition](#named-entity-recognition)
 <!-- > 3. [technique](link) -->
 
 ---
