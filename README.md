@@ -34,6 +34,11 @@ The repository is structured into sections by application area (e.g. remote sens
 > 2. [segmentation](https://github.com/lakillo/archaeology-machine-learning/tree/main#segmentation)
 <!-- > 3. [technique](link) -->
 
+### 📚️ textual analysis
+> 1. [language models](#language-models)
+> 2. [named entity recognition](#named-entity-recognition)
+<!-- > 3. [technique](link) -->
+
 ---
 
 ## 🛰️ remote sensing
@@ -46,3 +51,20 @@ The repository is structured into sections by application area (e.g. remote sens
 | title | authors | year | data type | technique | paper | code | data |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |<!-- -->Investigating ancient agricultural field systems in Sweden from airborne LIDAR data by using convolutional neural network | Küçükdemirci et al | 2022 | lidar | segmentation | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886) | code:tbc | data:tbc<!-- -->|
+
+
+## 📚️ textual analysis
+### language models
+|title | authors | year | type | technique | language | paper | model | 
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|<!-- -->ArchaeoBERT | Alex Brandsen | 2023 | BERT | Masked Language Modelling | English | [paper](https://doi.org/10.5281/zenodo.8300777) | [model](https://huggingface.co/alexbrandsen/ArchaeoBERT) <!-- -->|
+|<!-- -->ArchaeoBERT-NER | Alex Brandsen | 2023 | BERT | Named Entity Recognition | English | [paper](https://doi.org/10.5281/zenodo.8300777) | [model](https://huggingface.co/alexbrandsen/ArchaeoBERT-NER) <!-- -->|
+|<!-- -->ArcheoBERTje | Alex Brandsen | 2023 | BERT | Masked Language Modelling | Dutch | [paper](https://doi.org/10.5281/zenodo.8300777) | [model](https://huggingface.co/alexbrandsen/ArcheoBERTje) <!-- -->|
+|<!-- -->ArcheoBERTje-NER | Alex Brandsen | 2023 | BERT | Named Entity Recognition | Dutch | [paper](https://doi.org/10.5281/zenodo.8300777) | [model](https://huggingface.co/alexbrandsen/ArcheoBERTje-NER) <!-- -->|
+|<!-- -->bert-base-german-cased-archaeo | Alex Brandsen | 2023 | BERT | Masked Language Modelling | German | [paper](https://doi.org/10.5281/zenodo.8300777) | [model](https://huggingface.co/alexbrandsen/bert-base-german-cased-archaeo) <!-- -->|
+|<!-- -->bert-base-german-cased-archaeo-NER | Alex Brandsen | 2023 | BERT | Named Entity Recognition | German | [paper](https://doi.org/10.5281/zenodo.8300777) | [model](https://huggingface.co/alexbrandsen/bert-base-german-cased-archaeo-NER) <!-- -->|
+
+### named entity recognition
+|title | authors | year | type | format | language | paper | data | 
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|<!-- -->Creating a Dataset for Named Entity Recognition in the Archaeology Domain | Brandsen et al. | 2020 | data | CoNNL | Dutch | [paper](https://aclanthology.org/2020.lrec-1.562) | [data](https://doi.org/10.5281/zenodo.3544544)<!-- -->|
