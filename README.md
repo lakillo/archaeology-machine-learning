@@ -68,3 +68,12 @@ The repository is structured into sections by application area (e.g. remote sens
 |title | authors | year | type | format | language | paper | data | 
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |<!-- -->Creating a Dataset for Named Entity Recognition in the Archaeology Domain | Brandsen et al. | 2020 | data | CoNNL | Dutch | [paper](https://aclanthology.org/2020.lrec-1.562) | [data](https://doi.org/10.5281/zenodo.3544544)<!-- -->|
+
+## ⚛️ stable isotope analysis
+
+### regression
+|title | authors | year | data type | technique | paper | code | data |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|<!-- -->A bioavailable strontium isoscape for Western Europe: A machine learning approach | Bataille et al. | 2018 | strontium isoscape | Random Forest | [paper](https://doi.org/10.1371/journal.pone.0197386) | [code](https://doi.org/10.1371/journal.pone.0197386.s001) | data:tbc <!-- -->|
+|<!-- -->Advances in global bioavailable strontium isoscapes | Bataille et al. | 2020 | strontium isoscape | Random Forest | [paper](https://doi.org/10.1016/j.palaeo.2020.109849) | [code](https://ars.els-cdn.com/content/image/1-s2.0-S0031018220302947-mmc4.zip) | [data](https://ars.els-cdn.com/content/image/1-s2.0-S0031018220302947-mmc1.xlsx) <!-- -->|
+|<!-- -->A bio-available strontium isoscape for eastern Beringia: a tool for tracking landscape use of Pleistocene megafauna | Funck et al. | 2020 | strontium isoscape | Random Forest | [paper](https://doi.org/10.1002/jqs.3262) | code:tbc | [data](https://onlinelibrary.wiley.com/doi/10.1002/jqs.3262) <!-- -->|
