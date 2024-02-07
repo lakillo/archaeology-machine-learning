@@ -60,6 +60,12 @@ The repository is structured into sections by application area (e.g. remote sens
 | habitat suitability modelling    | Jones et al      |   2019 | site distribution modelling | climate and topography | random forest                                                               | [paper](https://doi.org/10.1111/jbi.13684)         | code:tbc | data:tbc |
 | geochemical predictive modelling | Oonk and Spijker |   2015 | site distribution modelling | soil geochemistry      | k-nearest neighbours support vector machines and artificial neural networks | [paper](https://doi.org/10.1016/j.jas.2015.04.002) | code:tbc | data:tbc |
 
+##  topography and soil characteristics
+
+| short title                     | authors              |   year | application area                    | data type     | technique                                | paper    | code     |   data |
+|:--------------------------------|:---------------------|-------:|:------------------------------------|:--------------|:-----------------------------------------|:---------|:---------|-------:|
+| random rorest: swiss case study | Castiello and Tonini |   2021 | topography and soil characteristics | random forest | [paper](https://doi.org/10.5334/jcaa.71) | code:tbc | data:tbc |    nan |
+
 <!-- END DATA -->
 
 ---
