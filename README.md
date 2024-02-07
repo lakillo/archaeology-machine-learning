@@ -43,9 +43,12 @@ The repository is structured into sections by application area (e.g. remote sens
 
 <!-- START_TABLE -->
 
-
-
-
+| short title                      | authors                              |   year | data type              | technique                                                                   | paper                                                              | code     | data     |
+|:---------------------------------|:-------------------------------------|-------:|:-----------------------|:----------------------------------------------------------------------------|:-------------------------------------------------------------------|:---------|:---------|
+| CarcassonNet for hollow roads    | Verschoof-van der Vaart and Landauer |   2021 | lidar                  | classification                                                              | [paper](https://doi.org/10.1016/j.culher.2020.10.009)              | code:tbc | data:tbc |
+| CNN for field systems            | Küçükdemirci et al                   |   2022 | lidar                  | segmentation                                                                | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886) | code:tbc | data:tbc |
+| geochemical predictive modelling | Oonk and Spijker                     |   2015 | soil geochemistry      | k-nearest neighbours support vector machines and artificial neural networks | [paper](https://doi.org/10.1016/j.jas.2015.04.002)                 | code:tbc | data:tbc |
+| habitat suitability modelling    | Jones et al                          |   2019 | climate and topography | random forest                                                               | [paper](https://doi.org/10.1111/jbi.13684)                         | code:tbc | data:tbc |
 <!-- END_TABLE -->
 
 ---
