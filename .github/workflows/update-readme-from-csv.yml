@@ -1,4 +1,4 @@
-name: update README with csv changes
+name: Update README with csv changes
 
 on:
   push:
@@ -14,10 +14,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
-      - name: set up python
-        uses: actions/setup-python@v2
+      - name: set up Python
+        uses: actions/setup-python@v3
         with:
           python-version: '3.x'
 
@@ -26,16 +26,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install pandas
 
-      - name: read and process csv
+      - name: read and process CSV
         run: |
-          python build/update_readme.py
+          python build/update-readme.py
 
       - name: commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "update README with csv changes"
+          git commit -m "Update README with CSV changes"
       
       - name: push changes
         uses: ad-m/github-push-action@master
