@@ -46,7 +46,19 @@ The repository is structured into sections by application area (e.g. remote sens
 
 <!-- START DATA -->
 
+## 🛰️ remote sensing
 
+| short title                   | authors                              |   year | application area   | data type   | technique      | paper                                                              | code     | data     |
+|:------------------------------|:-------------------------------------|-------:|:-------------------|:------------|:---------------|:-------------------------------------------------------------------|:---------|:---------|
+| CNN for field systems         | Küçükdemirci et al                   |   2022 | remote sensing     | lidar       | segmentation   | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886) | code:tbc | data:tbc |
+| CarcassonNet for hollow roads | Verschoof-van der Vaart and Landauer |   2021 | remote sensing     | lidar       | classification | [paper](https://doi.org/10.1016/j.culher.2020.10.009)              | code:tbc | data:tbc |
+
+## 🌏 site distribution modelling
+
+| short title                      | authors          |   year | application area            | data type              | technique                                                                   | paper                                              | code     | data     |
+|:---------------------------------|:-----------------|-------:|:----------------------------|:-----------------------|:----------------------------------------------------------------------------|:---------------------------------------------------|:---------|:---------|
+| habitat suitability modelling    | Jones et al      |   2019 | site distribution modelling | climate and topography | random forest                                                               | [paper](https://doi.org/10.1111/jbi.13684)         | code:tbc | data:tbc |
+| geochemical predictive modelling | Oonk and Spijker |   2015 | site distribution modelling | soil geochemistry      | k-nearest neighbours support vector machines and artificial neural networks | [paper](https://doi.org/10.1016/j.jas.2015.04.002) | code:tbc | data:tbc |
 
 <!-- END DATA -->
 
