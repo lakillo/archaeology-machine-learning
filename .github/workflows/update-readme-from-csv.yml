@@ -1,4 +1,4 @@
-name: Update README with csv changes
+name: update README with csv changes
 
 on:
   push:
@@ -13,6 +13,11 @@ jobs:
   update_readme:
     runs-on: ubuntu-latest
     steps:
+      - name: set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
       - name: checkout repository
         uses: actions/checkout@v3
 
@@ -26,7 +31,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install pandas
 
-      - name: read and process CSV
+      - name: read and process csv
         run: |
           python build/update-readme.py
 
@@ -35,7 +40,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Update README with CSV changes"
+          git commit -m "update README with csv changes"
       
       - name: push changes
         uses: ad-m/github-push-action@master
