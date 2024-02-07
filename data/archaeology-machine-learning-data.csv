@@ -1,5 +1,4 @@
-title,authors,year,data type,technique,paper,code,data
-Using CarcassonNet to automatically detect and trace hollow roads in LiDAR data from the Netherlands,Verschoof-van der Vaart and Landauer,2021,lidar,classification,[paper](https://doi.org/10.1016/j.culher.2020.10.009),code:tbc,data:tbc
-Investigating ancient agricultural field systems in Sweden from airborne LIDAR data by using convolutional neural network, Küçükdemirci et al, 2022, lidar, segmentation, [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886), code:tbc, data:tbc
-A supervised machine-learning approach towards geochemical predictive modelling in archaeology, Oonk and Spijker, 2015, soil geochemistry, k-nearest neighbours support vector machines and artificial neural networks, [paper](https://doi.org/10.1016/j.jas.2015.04.002), code:tbc, data:tbc
-Mapping Tasmania's cultural landscapes, Jones et al., 2019, climate and topography, random forest, [paper](https://doi.org/10.1111/jbi.13684), code:tbc, data:tbc
+short title,authors,year,data type,technique,paper,code,data
+CarcassonNet for hollow roads,Verschoof-van der Vaart and Landauer,2021,lidar,classification,[paper](https://doi.org/10.1016/j.culher.2020.10.009),code:tbc,data:tbc
+CNN for field systems, Küçükdemirci et al, 2022, lidar, segmentation, [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886), code:tbc, data:tbc
+supervised methods for geochemical predictive modelling, Oonk and Spijker, 2015, soil geochemistry, k-nearest neighbours support vector machines and artificial neural networks, [paper](https://doi.org/10.1016/j.jas.2015.04.002), code:tbc, data:tbc
