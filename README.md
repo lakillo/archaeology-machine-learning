@@ -41,6 +41,15 @@ The repository is structured into sections by application area (e.g. remote sens
 
 ---
 
+<!-- START_TABLE -->
+
+
+
+
+<!-- END_TABLE -->
+
+---
+
 ## 🛰️ remote sensing
 ### classification
 |title | authors | year | data type | technique | paper | code | data |
@@ -87,4 +96,3 @@ The repository is structured into sections by application area (e.g. remote sens
 |<!-- -->A bioavailable strontium isoscape for Western Europe: A machine learning approach | Bataille et al. | 2018 | strontium | Random Forest | [paper](https://doi.org/10.1371/journal.pone.0197386) | [code](https://doi.org/10.1371/journal.pone.0197386.s001) | data:tbc <!-- -->|
 |<!-- -->Advances in global bioavailable strontium isoscapes | Bataille et al. | 2020 | strontium | Random Forest | [paper](https://doi.org/10.1016/j.palaeo.2020.109849) | [code](https://ars.els-cdn.com/content/image/1-s2.0-S0031018220302947-mmc4.zip) | [data](https://ars.els-cdn.com/content/image/1-s2.0-S0031018220302947-mmc1.xlsx) <!-- -->|
 |<!-- -->A bio-available strontium isoscape for eastern Beringia: a tool for tracking landscape use of Pleistocene megafauna | Funck et al. | 2020 | strontium | Random Forest | [paper](https://doi.org/10.1002/jqs.3262) | code:tbc | [data](https://onlinelibrary.wiley.com/doi/10.1002/jqs.3262) <!-- -->|
-
