@@ -41,14 +41,19 @@ The repository is structured into sections by application area (e.g. remote sens
 
 ---
 
-<!-- START_TABLE -->
+> [!WARNING]  
+> New data section currently under construction (2024-02-07)
+
+<!-- START DATA -->
 
 
 
-
-<!-- END_TABLE -->
+<!-- END DATA -->
 
 ---
+
+> [!IMPORTANT]  
+> Old data section currently under de-construction (2024-02-07)
 
 ## 🛰️ remote sensing
 ### classification
