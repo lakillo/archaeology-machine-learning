@@ -4,7 +4,7 @@ import pandas as pd
 df = pd.read_csv('data/archaeology-machine-learning-data.csv')
 
 # Select the columns you want to display in the README as a table
-selected_columns = df[['title', 'authors', 'year', 'data type', 'technique', 'paper', 'code', 'data']]
+selected_columns = df[['short title', 'authors', 'year', 'data type', 'technique', 'paper', 'code', 'data']]
 
 # Convert the selected columns to Markdown format
 markdown_table = selected_columns.to_markdown(index=False)
