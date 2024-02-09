@@ -8,11 +8,7 @@ named entity recognition for archaeological text,Brandsen,2023,natural language 
 dataset for named entity recognition,Brandsen et al,2020,natural language processing,dutch language,CoNNL,[paper](https://aclanthology.org/2020.lrec-1.562),,[data](https://doi.org/10.5281/zenodo.3544544)
 segmentation for field systems,Küçükdemirci et al,2022,site prospection/monitoring,lidar DTMs,U-Net,[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886),,
 image classification for hollow roads,Verschoof-van der Vaart and Landauer,2021,site prospection/monitoring,lidar visualisations,Resnet-34 CNN,[paper](https://doi.org/10.1016/j.culher.2020.10.009),,
-image classification for hollow roads,Verschoof-van der Vaart and Landauer,2021,site prospection/monitoring,lidar visualisations,Resnet-34 CNN,[paper](https://doi.org/10.1016/j.culher.2020.10.009),,
-regression for roman sites,Castiello and Tonini,2021,spatial predictive modelling,soil and topography,RF,[paper](https://doi.org/10.5334/jcaa.71),,
 regression for roman sites,Castiello and Tonini,2021,spatial predictive modelling,soil and topography,RF,[paper](https://doi.org/10.5334/jcaa.71),,
 regression for formative period sites,Yaworsky et al,2020,spatial predictive modelling,environmental and topography,"MaxEnt, RF",[paper](https://doi.org/10.1371/journal.pone.0239424),[code](https://doi.org/10.1371/journal.pone.0239424.s001),[data](https://doi.org/10.1371/journal.pone.0239424.s002)
 clasisfication for habitat suitability,Jones et al,2019,spatial predictive modelling,climate and topography,RF,[paper](https://doi.org/10.1111/jbi.13684),,
-clasisfication for habitat suitability,Jones et al,2019,spatial predictive modelling,climate and topography,RF,[paper](https://doi.org/10.1111/jbi.13684),,
-classification for soil geochemistry,Oonk and Spijker,2015,spatial predictive modelling,soil geochemistry,"kNN, SVM, NN",[paper](https://doi.org/10.1016/j.jas.2015.04.002),,
 classification for soil geochemistry,Oonk and Spijker,2015,spatial predictive modelling,soil geochemistry,"kNN, SVM, NN",[paper](https://doi.org/10.1016/j.jas.2015.04.002),,
