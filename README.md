@@ -24,12 +24,12 @@ Check out our [🗺️ roadmap](https://github.com/lakillo/archaeology-machine-l
 Archived releases of this repository with a citeable DOI will be made at regular intervals.
 
 ## 🙏 acknowledgements
-This project was inspired by the [satellite-image-deep-learning](https://github.com/satellite-image-deep-learning/) and [AncientMetagenomeDir](https://github.com/SPAAM-community/AncientMetagenomeDir) projects, and was kicked off as part of [Open Seeds cohort 8](https://openlifesci.org/openseeds/ols-8/).
+This project was kicked off as part of [Open Seeds cohort 8](https://openlifesci.org/openseeds/ols-8/), and was inspired by these great projects: [satellite-image-deep-learning](https://github.com/satellite-image-deep-learning/), [Rchaeology](https://rchaeology.github.io/about/), [open-phytoliths](https://github.com/open-phytoliths), [AncientMetagenomeDir](https://github.com/SPAAM-community/AncientMetagenomeDir), and [open-archaeo](https://github.com/zackbatist/open-archaeo).
 
 ## 📁 repository contents
 Machine learning techniques can be described and categorised in a number of different ways, which can make the field confusing to navigate. The data structure of this repository aims to simplify things. It's based on a hierarchy of information which goes from the most general way of describing a technique to the most specific, e.g.:
 
-application area —> task —> model/algorithm
+> **application area** —> **task** —> **model/algorithm**
 
 For contributors, guidance on how to use this hierarchy to structure your contributions can be found in the [💅 repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-repo-style-guide).
 
