@@ -1,6 +1,6 @@
 task,authors,year,application area,data type,technique,paper,code,data
 image classification for hollow roads,Verschoof-van der Vaart and Landauer,2021,site prospection/monitoring,lidar visualisations,Resnet-34 CNN,[paper](https://doi.org/10.1016/j.culher.2020.10.009),,
-segmentation for field systems,Küçükdemirci et al,2022,site prospection/monitoring,lidar DTMs,segmentation,[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886),,
+segmentation for field systems,Küçükdemirci et al,2022,site prospection/monitoring,lidar DTMs,U-Net,[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886),,
 classification for soil geochemistry,Oonk and Spijker,2015,spatial predictive modelling,soil geochemistry,"kNN, SVM, NN",[paper](https://doi.org/10.1016/j.jas.2015.04.002),,
 clasisfication for habitat suitability,Jones et al,2019,spatial predictive modelling,climate and topography,RF,[paper](https://doi.org/10.1111/jbi.13684),,
 regression for roman sites,Castiello and Tonini,2021,spatial predictive modelling,soil and topography,RF,[paper](https://doi.org/10.5334/jcaa.71),,
