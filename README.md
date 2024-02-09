@@ -37,14 +37,6 @@ For contributors, guidance on how to use this hierarchy to structure your contri
 
 <!-- START DATA -->
 
-## ⚛️ chemical analysis
-
-| task                                   | authors        |   year | data type   | technique   | paper                                                 | code                                                                            | data                                                                             |
-|:---------------------------------------|:---------------|-------:|:------------|:------------|:------------------------------------------------------|:--------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
-| regression for stable isotope analysis | Bataille et al |   2020 | strontium   | RF          | [paper](https://doi.org/10.1016/j.palaeo.2020.109849) | [code](https://ars.els-cdn.com/content/image/1-s2.0-S0031018220302947-mmc4.zip) | [data](https://ars.els-cdn.com/content/image/1-s2.0-S0031018220302947-mmc1.xlsx) |
-| regression for stable isotope analysis | Funck et al    |   2020 | strontium   | RF          | [paper](https://doi.org/10.1002/jqs.3262)             | nan                                                                             | [data](https://onlinelibrary.wiley.com/doi/10.1002/jqs.3262)                     |
-| regression for stable isotope analysis | Bataille et al |   2018 | strontium   | RF          | [paper](https://doi.org/10.1371/journal.pone.0197386) | [code](https://doi.org/10.1371/journal.pone.0197386.s001)                       | nan                                                                              |
-
 ## 📚️ natural language processing
 
 | task                                              | authors        |   year | data type        | technique                          | paper                                             | code                                                                            | data                                           |
@@ -61,7 +53,9 @@ For contributors, guidance on how to use this hierarchy to structure your contri
 
 | task                                  | authors                              |   year | data type            | technique     | paper                                                              |   code |   data |
 |:--------------------------------------|:-------------------------------------|-------:|:---------------------|:--------------|:-------------------------------------------------------------------|-------:|-------:|
+| segmentation for field systems        | Küçükdemirci et al                   |   2022 | lidar DTMs           | U-Net         | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886) |    nan |    nan |
 | segmentation for field systems        | Küçükdemirci et al                   |   2022 | lidar DTMs           | segmentation  | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886) |    nan |    nan |
+| image classification for hollow roads | Verschoof-van der Vaart and Landauer |   2021 | lidar visualisations | Resnet-34 CNN | [paper](https://doi.org/10.1016/j.culher.2020.10.009)              |    nan |    nan |
 | image classification for hollow roads | Verschoof-van der Vaart and Landauer |   2021 | lidar visualisations | Resnet-34 CNN | [paper](https://doi.org/10.1016/j.culher.2020.10.009)              |    nan |    nan |
 
 ## 🌏 spatial predictive modelling
@@ -69,8 +63,11 @@ For contributors, guidance on how to use this hierarchy to structure your contri
 | task                                   | authors              |   year | data type                    | technique    | paper                                                 | code                                                      | data                                                      |
 |:---------------------------------------|:---------------------|-------:|:-----------------------------|:-------------|:------------------------------------------------------|:----------------------------------------------------------|:----------------------------------------------------------|
 | regression for roman sites             | Castiello and Tonini |   2021 | soil and topography          | RF           | [paper](https://doi.org/10.5334/jcaa.71)              | nan                                                       | nan                                                       |
+| regression for roman sites             | Castiello and Tonini |   2021 | soil and topography          | RF           | [paper](https://doi.org/10.5334/jcaa.71)              | nan                                                       | nan                                                       |
 | regression for formative period sites  | Yaworsky et al       |   2020 | environmental and topography | MaxEnt, RF   | [paper](https://doi.org/10.1371/journal.pone.0239424) | [code](https://doi.org/10.1371/journal.pone.0239424.s001) | [data](https://doi.org/10.1371/journal.pone.0239424.s002) |
 | clasisfication for habitat suitability | Jones et al          |   2019 | climate and topography       | RF           | [paper](https://doi.org/10.1111/jbi.13684)            | nan                                                       | nan                                                       |
+| clasisfication for habitat suitability | Jones et al          |   2019 | climate and topography       | RF           | [paper](https://doi.org/10.1111/jbi.13684)            | nan                                                       | nan                                                       |
+| classification for soil geochemistry   | Oonk and Spijker     |   2015 | soil geochemistry            | kNN, SVM, NN | [paper](https://doi.org/10.1016/j.jas.2015.04.002)    | nan                                                       | nan                                                       |
 | classification for soil geochemistry   | Oonk and Spijker     |   2015 | soil geochemistry            | kNN, SVM, NN | [paper](https://doi.org/10.1016/j.jas.2015.04.002)    | nan                                                       | nan                                                       |
 
 <!-- END DATA -->
