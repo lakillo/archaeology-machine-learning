@@ -13,11 +13,8 @@ To contribute by adding an example to the csv:
 2. fork and clone the repo, and make a new branch (see instructions in [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request))
 3. add your contributions to the csv file (data/archaeology-machine-learning-data.csv)
 
->> [!IMPORTANT] where should I add things in the csv?
-> 
->Don't worry about the order you add things in! Just add your contributions to the next available row of the csv file. 
-> 
-> We have a github action which automatically sorts the csv after each commit and keeps it neat and tidy 🧹🤖.
+> [!IMPORTANT]
+> Add your contributions to the next available row of the csv file. We have a github action which automatically sorts the csv after each commit to keep it neat and tidy 🧹🤖
 
 3. [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request)
 
