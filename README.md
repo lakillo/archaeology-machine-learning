@@ -55,18 +55,14 @@ For contributors, guidance on how to use this hierarchy to structure your contri
 |:--------------------------------------|:-------------------------------------|-------:|:---------------------|:--------------|:-------------------------------------------------------------------|-------:|-------:|
 | segmentation for field systems        | Küçükdemirci et al                   |   2022 | lidar DTMs           | U-Net         | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886) |    nan |    nan |
 | image classification for hollow roads | Verschoof-van der Vaart and Landauer |   2021 | lidar visualisations | Resnet-34 CNN | [paper](https://doi.org/10.1016/j.culher.2020.10.009)              |    nan |    nan |
-| image classification for hollow roads | Verschoof-van der Vaart and Landauer |   2021 | lidar visualisations | Resnet-34 CNN | [paper](https://doi.org/10.1016/j.culher.2020.10.009)              |    nan |    nan |
 
 ## 🌏 spatial predictive modelling
 
 | task                                   | authors              |   year | data type                    | technique    | paper                                                 | code                                                      | data                                                      |
 |:---------------------------------------|:---------------------|-------:|:-----------------------------|:-------------|:------------------------------------------------------|:----------------------------------------------------------|:----------------------------------------------------------|
 | regression for roman sites             | Castiello and Tonini |   2021 | soil and topography          | RF           | [paper](https://doi.org/10.5334/jcaa.71)              | nan                                                       | nan                                                       |
-| regression for roman sites             | Castiello and Tonini |   2021 | soil and topography          | RF           | [paper](https://doi.org/10.5334/jcaa.71)              | nan                                                       | nan                                                       |
 | regression for formative period sites  | Yaworsky et al       |   2020 | environmental and topography | MaxEnt, RF   | [paper](https://doi.org/10.1371/journal.pone.0239424) | [code](https://doi.org/10.1371/journal.pone.0239424.s001) | [data](https://doi.org/10.1371/journal.pone.0239424.s002) |
 | clasisfication for habitat suitability | Jones et al          |   2019 | climate and topography       | RF           | [paper](https://doi.org/10.1111/jbi.13684)            | nan                                                       | nan                                                       |
-| clasisfication for habitat suitability | Jones et al          |   2019 | climate and topography       | RF           | [paper](https://doi.org/10.1111/jbi.13684)            | nan                                                       | nan                                                       |
-| classification for soil geochemistry   | Oonk and Spijker     |   2015 | soil geochemistry            | kNN, SVM, NN | [paper](https://doi.org/10.1016/j.jas.2015.04.002)    | nan                                                       | nan                                                       |
 | classification for soil geochemistry   | Oonk and Spijker     |   2015 | soil geochemistry            | kNN, SVM, NN | [paper](https://doi.org/10.1016/j.jas.2015.04.002)    | nan                                                       | nan                                                       |
 
 <!-- END DATA -->
