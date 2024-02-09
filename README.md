@@ -54,7 +54,6 @@ For contributors, guidance on how to use this hierarchy to structure your contri
 | task                                  | authors                              |   year | data type            | technique     | paper                                                              |   code |   data |
 |:--------------------------------------|:-------------------------------------|-------:|:---------------------|:--------------|:-------------------------------------------------------------------|-------:|-------:|
 | segmentation for field systems        | Küçükdemirci et al                   |   2022 | lidar DTMs           | U-Net         | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886) |    nan |    nan |
-| segmentation for field systems        | Küçükdemirci et al                   |   2022 | lidar DTMs           | segmentation  | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886) |    nan |    nan |
 | image classification for hollow roads | Verschoof-van der Vaart and Landauer |   2021 | lidar visualisations | Resnet-34 CNN | [paper](https://doi.org/10.1016/j.culher.2020.10.009)              |    nan |    nan |
 | image classification for hollow roads | Verschoof-van der Vaart and Landauer |   2021 | lidar visualisations | Resnet-34 CNN | [paper](https://doi.org/10.1016/j.culher.2020.10.009)              |    nan |    nan |
 
