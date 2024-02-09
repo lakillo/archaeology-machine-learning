@@ -33,8 +33,7 @@ Machine learning techniques can be described and categorised in a number of diff
 
 For contributors, guidance on how to use this hierarchy to structure your contributions can be found in the [💅 repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-repo-style-guide).
 
----
-
+# ⚙️ machine learning techniques for archaeology
 <!-- START DATA -->
 
 ## 📚️ natural language processing
