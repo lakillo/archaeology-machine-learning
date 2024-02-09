@@ -24,7 +24,7 @@ for key, df in dfs_split.items():
 emoji_mapping = {
     'chemical analysis': '⚛️',
     'natural language processing': '📚️',
-    'remote sensing': '🛰️',
+    'site prospection/monitoring': '🛰️',
     'spatial predictive modelling': '🌏',
     'new area': '📊',
     # insert new areas in the list in alphabetical order

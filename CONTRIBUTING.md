@@ -5,25 +5,25 @@ A quick note before we get started: this project and everyone participating in i
 
 There are many options for participating in this project; whether you're a seasoned github user and are ready to [📝 create an issue](https://github.com/lakillo/archaeology-machine-learning/issues/new) or [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request), or you're new here and [don't have an account](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#contribute-without-a-github-account). Read on to find out more.
 
-## ⏩ TL;DR
-Since this project is about collecting resources, the most simple and helpful contribution you could make is to add one (or more) example(s) to the main repository README file, i.e. one of these:
+## ⏩ TL;DR: how to contribute
+Since this project is about collecting resources, the most simple and helpful contribution you could make is to add one or more examples to the repository's main data file, which is the csv file in the data folder.
 
-<img width="854" alt="Screenshot 2023-11-16 at 10 57 59" src="https://github.com/lakillo/archaeology-machine-learning/assets/81825476/7dc06a90-8ef0-4605-aa5b-05e4763d8647">
-
-To contribute an example by inserting a row into an existing section of the README:
+To contribute by adding an example to the csv:
 1. take note of the [💅 repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-repo-style-guide)
 2. fork and clone the repo, and make a new branch (see instructions in [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request))
-3. use the below template to add examples to the new branch:
-```
-|<!-- -->title | authors | year | data type | technique | [paper](link) or paper:tbc | [code](link) or code:tbc | [data](link) or data:tbc<!-- -->|
-```
+3. add your contributions to the csv file (data/archaeology-machine-learning-data.csv)
+
+>> [!IMPORTANT] where should I add things in the csv?
+> 
+>Don't worry about the order you add things in! Just add your contributions to the next available row of the csv file. 
+> 
+> We have a github action which automatically sorts the csv after each commit and keeps it neat and tidy 🧹🤖.
+
 3. [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request)
 
 Simple contributions of this kind are hugely appreciated and make all the difference ✨
 
-If the section you want to contribute to doesn't exist yet, please read on for more info on how to expand the existing repository structure.
-
-## ✅ how to contribute
+## ✅ other ways to contribute
 
 ### introduce yourself!
 1. post a message on our [👋 community introductions issue](https://github.com/lakillo/archaeology-machine-learning/issues/7)
@@ -37,37 +37,6 @@ If the section you want to contribute to doesn't exist yet, please read on for m
 2. click into a milestone to see the open issues
 3. help us resolve any open issues (you may need to [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request))
 
-### add new examples to existing sections in the README
-1. take note of the [💅 repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-repo-style-guide)
-2. fork and clone the repo, and make a new branch (see instructions in [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request))
-3. use the below template to insert a row into an existing section of the README:
-
-```
-|<!-- -->title | authors | year | data type | technique | [paper](link) or paper:tbc | [code](link) or code:tbc | [data](link) or data:tbc<!-- -->|
-```
-4. [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request)
-
-### add new sections to the README
-1. take note of the [💅 repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-repo-style-guide)
-2. fork and clone the repo, and make a new branch (see instructions in [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request))
-3. use the below template to add a new section or subsection to the README:
-
-```
-## high-level application area name (e.g. remote sensing, which includes data types aerial, lidar, satellite, etc)
-### first machine learning technique name
-|title | authors | year | data type | technique | paper | code | data |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|<!-- -->title | authors | year | data type | technique | [paper](link) or paper:tbc | [code](link) or code:tbc | [data](link) or data:tbc<!-- -->|
-
-### second machine learning technique name
-|title | authors | year | data type | technique | paper | code | data |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|<!-- -->title | authors | year | data type | technique | [paper](link) or paper:tbc | [code](link) or code:tbc | [data](link) or data:tbc<!-- -->|
-
-### third machine learning technique name ...
-```
-4. [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request)
-
 ### help us plan the project vision and roadmap
 1. read our project [🗺️ roadmap](https://github.com/lakillo/archaeology-machine-learning/issues/3)
 2. in the [🗺️ project vision and roadmap](https://github.com/lakillo/archaeology-machine-learning/milestone/2) milestone, comment on an open issue or [📝 create a new issue](https://github.com/lakillo/archaeology-machine-learning/issues/new) explaining your idea
@@ -79,20 +48,72 @@ If the section you want to contribute to doesn't exist yet, please read on for m
 ## 💅 repo style guide
 This repository's contents is written in [github flavored markdown](https://guides.github.com/features/mastering-markdown/). 
 
-When making a contribution to the main repository contents in the README, please use the below structure and formatting:
-* **title:** the title of the project / tool / academic paper
-* **authors:** maximum 2 names, or first author and et al if there are more than two authors
-* **year:** the year of publication / release
-* **data:** the data type used (e.g. aerial imagery, lidar, satellite)
-* **technique**: the machine learning technique used (e.g. classification, segmentation)
-* **paper:** the link to the paper (if there is one) in markdown style ```[paper](link)```, or paper:tbc if no link available
-* **code:** the link to the code in markdown style ```[code](link)```, or code:tbc if no link available
-* **data:** the link to the data in markdown style ```[data](link)```, or data:tbc if no link available
+As mentioned on the README, this repository aims to simplify the navigation of machine learning research and is based on a hierarchy of information which goes from the most general way of describing a technique to the most specific:
 
-We use this formatting because it:
-* lets us to easily turn the README contents into a spreadsheet which will be available for download with each archived release of the repository
-* helps everyone to keep the repo contents as clear to read and easy to contribute to as possible
-* means that potential contributors can easily look for missing content (e.g. any 'tbc' links)
+application area —> task —> model/algorithm
+
+We recognise that this isn't going to cover all the details of every example, but it will provide enough information for the community to learn, explore, and build. When choosing how to add your example, think generally about the **main** aim, task and technique used.
+
+This is what the csv structure looks like:
+
+| task | author(s) | year | application area | data type | method | paper | code | data |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... |
+
+And here's some specific guidelines for filling it in:
+
+1. **task** = the [machine learning task] for [thing being analysed], e.g.:
+	- [image classification] for [hollow roads]
+	- [named entity recognition] for [archaeological text]
+	- [classification] for [soil geochemistry]
+	- [regression] for [stable isotope analysis]
+
+1. **author(s)** = author(s) last name (+ et al if 3 or more authors)
+
+2. **year** = year of publication/creation
+
+3. **application area** = this column is important as it categorises all the data on the README. choose the overall domain of the example from the existing column values, e.g.:
+	- chemical analysis
+	- natural language processing
+	- site prospection/monitoring
+	- spatial predictive modelling
+	- OR add new areas as needed (see next section)
+
+4. **data type** = the kind of data that the example uses, e.g.:
+	- lidar visualisations
+	- DEM
+	- english language text
+	- strontium
+
+5. **method** = the name of the main machine learning model/algorithm used. use acronyms if you can to keep it short, there will be a reference section to explain them, e.g.:
+	- R-CNN
+	- BERT
+	- SVM
+
+1. **paper** = link to paper if published (DOI preferred)
+
+	- if not published, add a relevant link for information about the example
+2. **code** = link to the code or model (DOI preferred)
+
+3. **data** = link to the dataset (DOI preferred)
+
+## 🌱 adding a new application area
+If the example you're adding doesn't have its domain represented, simply enter a new value for the overall domain of the example in the application area column of the csv.
+
+If you feel like it, you can also choose an emoji to represent the section on the README. Find the emoji mapping section in the file build/update-csv-and-readme.py and add your new area and emoji:
+
+```
+> emoji_mapping = {
+    'chemical analysis': '⚛️',
+    'natural language processing': '📚️',
+    'site prospection/monitoring': '🛰️',
+    'spatial predictive modelling': '🌏',
+    'new area': '📊',
+    # insert new areas in the list in alphabetical order
+}
+```
+
+This file is is our tidy-up-and-README-making script which runs automatically after each change to the csv file 🧹🤖.
 
 ## 🎣 making a pull request
 To manage changes to the project's content we use [github's standard workflow](https://guides.github.com/introduction/flow/), which is based on contributors making requests for their changes to be pulled into the main project content (or, a pull request!).
