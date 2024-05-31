@@ -33,7 +33,7 @@ for key, df in dfs_split.items():
 # create a dictionary to map an emoji to each application area
 emoji_mapping = {
     'chemical analysis': '⚛️',
-    'dataset': '📊'
+    'dataset': '📊',
     'natural language processing': '📚️',
     'site detection': '🛰️',
     'site monitoring': '🔁',
