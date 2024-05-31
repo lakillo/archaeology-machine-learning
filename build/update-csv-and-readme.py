@@ -16,15 +16,15 @@ with open('data/archaeology-machine-learning-data.csv', 'w') as file:
 # identify dataframe rows containing the word 'dataset'
 contains_dataset = df_sorted['task'].str.contains('dataset', case=False, na=False)
 
-# Split the dataframe into two parts
+# split the datasets from the main dataframe
 df_without_dataset = df[~contains_dataset]
 df_with_dataset = df[contains_dataset]
 
-# Concatenate the dataframes, with rows containing 'dataset' at the bottom
-df_final = pd.concat([df_without_dataset, df_with_dataset], ignore_index=True)
+# create a dictionary which contains the main dataframe data, split by application area
+dfs_split = {group: group_df for group, group_df in df_without_dataset.groupby('application area')}
 
-# split the dataframe by application area
-dfs_split = {group: group_df for group, group_df in df_final.groupby('application area')}
+# add the datasets dataframe to the dfs_split dictionary
+dfs_split['datasets'] = df_with_dataset
 
 # keep only the dataframe columns needed for the README
 for key, df in dfs_split.items():
