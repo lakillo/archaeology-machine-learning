@@ -50,10 +50,12 @@ Archived releases of this repository with a citeable DOI will be made at regular
 
 ## 🌌 image analysis
 
-| task                             | authors      |   year | data type                               | technique                                       | paper                                       | code     | data     |
-|:---------------------------------|:-------------|-------:|:----------------------------------------|:------------------------------------------------|:--------------------------------------------|:---------|:---------|
-| segmentation of carved reliefs   | Ji et al     |   2023 | RGB images, depth map, soft-edge images | DenseNet121                                     | [paper](https://doi.org/10.3390/rs15040956) | [code]() | [data]() |
-| classification of ceramic sherds | Helden et al |   2022 | RGB images                              | VGG19, Mobilenet v2, Resnet 50 v2, Inception v3 | [paper](https://doi. org/10.5334/jcaa.92)   | [code]() | [data]() |
+| task                                             | authors      |   year | data type                               | technique                                               | paper                                               | code     | data                                                    |
+|:-------------------------------------------------|:-------------|-------:|:----------------------------------------|:--------------------------------------------------------|:----------------------------------------------------|:---------|:--------------------------------------------------------|
+| segmentation for carved reliefs                  | Ji et al     |   2023 | RGB images, depth map, soft-edge images | CNN (DenseNet121)                                       | [paper](https://doi.org/10.3390/rs15040956)         | [code]() | [data]()                                                |
+| classification for ceramic sherds                | Helden et al |   2022 | RGB images                              | CNN ("VGG19, Mobilenet v2, Resnet 50 v2, Inception v3") | [paper](https://doi. org/10.5334/jcaa.92)           | [code]() | [data]()                                                |
+| image classification for multiple artefact types | Resler et al |   2021 | RGB images                              | CNN (EfficientNetB3)                                    | [paper](https://doi.org/10.1057/s41599-021-00970-z) | [code]() | [data](http://www.antiquities.org.il/t/default_en.aspx) |
+| image classification for ceramic petrography     | Lyons        |   2021 | RGB images                              | CNN ("VGG19, ResNet50")                                 | [paper](https://doi. org/10.5334/jcaa.75)           | [code]() | [data]()                                                |
 
 ## 🪨 lithic analysis
 
@@ -75,12 +77,12 @@ Archived releases of this repository with a citeable DOI will be made at regular
 
 ## 🛰️ site detection
 
-| task                                  | authors                              |   year | data type            | technique    | paper                                                              | code                                                  |   data |
-|:--------------------------------------|:-------------------------------------|-------:|:---------------------|:-------------|:-------------------------------------------------------------------|:------------------------------------------------------|-------:|
-| segmentation for field systems        | Küçükdemirci et al                   |   2022 | lidar DTMs           | U-Net        | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886) | nan                                                   |    nan |
-| image classification for hollow roads | Verschoof-van der Vaart and Landauer |   2021 | lidar visualisations | Resnet-34    | [paper](https://doi.org/10.1016/j.culher.2020.10.009)              | nan                                                   |    nan |
-| object detection for mining pits      | Gallwey et al                        |   2019 | lidar DSM            | U-Net        | [paper](https://doi.org/10.3390/rs11171994)                        | [model](https://www.mdpi.com/2072-4292/11/17/1994/s1) |    nan |
-| object detection for multiple classes | Verschoof-van der Vaart and Lambers  |   2019 | lidar visualisations | Faster R-CNN | [paper](https://doi.org/10.5334/jcaa.32)                           | nan                                                   |    nan |
+| task                                  | authors                              |   year | data type            | technique          | paper                                                              | code                                                  |   data |
+|:--------------------------------------|:-------------------------------------|-------:|:---------------------|:-------------------|:-------------------------------------------------------------------|:------------------------------------------------------|-------:|
+| segmentation for field systems        | Küçükdemirci et al                   |   2022 | lidar DTMs           | CNN (U-Net)        | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886) | nan                                                   |    nan |
+| image classification for hollow roads | Verschoof-van der Vaart and Landauer |   2021 | lidar visualisations | CNN (Resnet-34)    | [paper](https://doi.org/10.1016/j.culher.2020.10.009)              | nan                                                   |    nan |
+| object detection for mining pits      | Gallwey et al                        |   2019 | lidar DSM            | U-Net              | [paper](https://doi.org/10.3390/rs11171994)                        | [model](https://www.mdpi.com/2072-4292/11/17/1994/s1) |    nan |
+| object detection for multiple classes | Verschoof-van der Vaart and Lambers  |   2019 | lidar visualisations | CNN (Faster R-CNN) | [paper](https://doi.org/10.5334/jcaa.32)                           | nan                                                   |    nan |
 
 ## 🌏 spatial predictive modelling
 
