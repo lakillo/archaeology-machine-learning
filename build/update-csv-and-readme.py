@@ -54,8 +54,8 @@ with open('README.md', 'r') as readme_file:
     readme_content = readme_file.read()
 
 # find the start and end markers in the README content
-start_marker = '<!-- START DATA -->'
-end_marker = '<!-- END DATA -->'
+start_marker = '<!-- START -->'
+end_marker = '<!-- END -->'
 start_index = readme_content.find(start_marker)
 end_index = readme_content.find(end_marker)
 
