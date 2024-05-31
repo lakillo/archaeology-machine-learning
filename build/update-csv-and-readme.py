@@ -37,7 +37,7 @@ emoji_mapping = {
     'natural language processing': '📚️',
     'site detection': '🛰️',
     'site monitoring': '🔁',
-    'spatial predictive modelling': '🌏',
+    'spatial predictive modelling': '🌏'
     # insert new areas in the list in alphabetical order
 }
 
