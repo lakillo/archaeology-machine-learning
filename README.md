@@ -24,7 +24,6 @@ Archived releases of this repository with a citeable DOI will be made at regular
 
 # ⚙️ resources
 
-> [!NOTE] contents
 > 1. ML case studies (split by application area)
 >    - [⚛️ chemical analysis](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#%EF%B8%8F-chemical-analysis)
 >    - [🪨 lithic analysis](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-lithic-analysis)
@@ -33,6 +32,8 @@ Archived releases of this repository with a citeable DOI will be made at regular
 >    - [🌏 spatial predictive modelling](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-spatial-predictive-modelling)
 > 2. [📊 datasets](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-datasets)
 > 3. [📖 glossary of technique names](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-glossary)
+
+---
 
 <!-- START -->
 
