@@ -23,7 +23,11 @@ Check out our **[🗺️ roadmap](https://github.com/lakillo/archaeology-machine
 Archived releases of this repository with a citeable DOI will be made at regular intervals.
 
 # ⚙️ resources
-Resources are split into sections by application area. Datasets are right at the end.
+Resources are split into the following sections:
+
+1. ML case studies (by application area)
+2. datasets
+3. glossary of technique names
 
 <!-- START -->
 
