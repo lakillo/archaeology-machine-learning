@@ -34,6 +34,7 @@ for key, df in dfs_split.items():
 emoji_mapping = {
     'chemical analysis': '⚛️',
     'datasets': '📊',
+    'image analysis': '🌌',
     'lithic analysis': '🪨',
     'natural language processing': '📚️',
     'site detection': '🛰️',
