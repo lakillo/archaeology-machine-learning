@@ -57,7 +57,7 @@ For contributors, guidance on how to use this hierarchy to structure your contri
 | named entity recognition for archaeological text  | Brandsen       |   2023 | german language  | bert-base-german-cased-archaeo-NER | [paper](https://doi.org/10.5281/zenodo.8300777)   | [model](https://huggingface.co/alexbrandsen/bert-base-german-cased-archaeo-NER) | nan                                            |
 | dataset for named entity recognition              | Brandsen et al |   2020 | dutch language   | CoNNL                              | [paper](https://aclanthology.org/2020.lrec-1.562) | nan                                                                             | [data](https://doi.org/10.5281/zenodo.3544544) |
 
-## 🛰️ site prospection/monitoring
+## 🛰️ site detection
 
 | task                                  | authors                              |   year | data type                                                        | technique                                                   | paper                                                              | code                                                  | data                                                 |
 |:--------------------------------------|:-------------------------------------|-------:|:-----------------------------------------------------------------|:------------------------------------------------------------|:-------------------------------------------------------------------|:------------------------------------------------------|:-----------------------------------------------------|
