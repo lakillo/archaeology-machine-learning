@@ -34,7 +34,7 @@ Machine learning methods can be described and categorised in a number of differe
 For contributors, guidance on how to use this hierarchy to structure your contributions can be found in the [💅 repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-repo-style-guide).
 
 # ⚙️ machine learning methods for archaeology
-<!-- START APPLICATIONS -->
+<!-- START -->
 
 ## ⚛️ chemical analysis
 
@@ -76,4 +76,4 @@ For contributors, guidance on how to use this hierarchy to structure your contri
 | classification for habitat suitability | Jones et al          |   2019 | climate, topography       | RF           | [paper](https://doi.org/10.1111/jbi.13684)            | nan                                                       | nan                                                       |
 | classification for soil geochemistry   | Oonk and Spijker     |   2015 | soil geochemistry         | kNN, SVM, NN | [paper](https://doi.org/10.1016/j.jas.2015.04.002)    | nan                                                       | nan                                                       |
 
-<!-- END APPLICATIONS -->
+<!-- END -->
