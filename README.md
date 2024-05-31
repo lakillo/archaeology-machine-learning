@@ -6,34 +6,25 @@
 
 ## 📖 introduction to the project
 Machine learning (ML) methods present new ways of approaching archaeological research questions and interest in applying these methods continues to grow. 
-This repository documents the application of ML methods to archaeological data, aiming to assist those working in the field by:
 
-* providing an overview of the ways ML is being applied in archaeology
-* sparking new ideas whilst reducing duplication of work
-* encouraging the sharing of code, data, and other resources
-* making resources more [FAIR](https://www.nature.com/articles/sdata201618) (Findable, Accessible, Interoperable, and Reuseable)
+This repository collects resources relating to the application of ML methods to archaeological data, aiming to:
 
-By doing this, we hope to support practitioners to **learn about, critically apply, or contribute to conversations about, machine learning methods for archaeology**.
+* provide an overview of the ways ML is being applied in archaeology
+* spark new ideas whilst reducing duplication of work
+* encourage the sharing of code, data, and other resources
+* make resources more [FAIR](https://www.nature.com/articles/sdata201618) (Findable, Accessible, Interoperable, and Reuseable)
+
+By doing this, we hope to support practitioners to **learn about, critically apply, or contribute to conversations about, ML in archaeology**.
 
 ## ✅ how to contribute
-This project is open for contributions! 
-
-Check out our [🗺️ roadmap](https://github.com/lakillo/archaeology-machine-learning/issues/3) to get an overview of the current milestones we're working towards and find out how to participate.
+Check out our **[🗺️ roadmap](https://github.com/lakillo/archaeology-machine-learning/issues/3)** for an overview of what we're working on, or go straight to the **[✅ contributor guidelines](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md)**.
 
 ## 🗞️ releases
 Archived releases of this repository with a citeable DOI will be made at regular intervals.
 
-## 🙏 acknowledgements
-This project was kicked off as part of [Open Seeds cohort 8](https://openlifesci.org/openseeds/ols-8/), and was inspired by these great projects: [satellite-image-deep-learning](https://github.com/satellite-image-deep-learning/), [Rchaeology](https://rchaeology.github.io/about/), [open-phytoliths](https://github.com/open-phytoliths), [AncientMetagenomeDir](https://github.com/SPAAM-community/AncientMetagenomeDir), and [open-archaeo](https://github.com/zackbatist/open-archaeo).
+# <mark> ⚙️ resources</mark>
+Resources are split into sections by application area. Datasets are right at the end.
 
-## 📁 repository contents
-Machine learning methods can be described and categorised in a number of different ways, which can make the field confusing to navigate. The data structure of this repository aims to simplify things. It's based on a hierarchy of information which goes from the most general way of describing a method to the most specific, e.g.:
-
-> **application area** —> **task** —> **technique**
-
-For contributors, guidance on how to use this hierarchy to structure your contributions can be found in the [💅 repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-repo-style-guide).
-
-# ⚙️ machine learning methods for archaeology
 <!-- START -->
 
 ## ⚛️ chemical analysis
