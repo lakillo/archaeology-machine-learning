@@ -106,8 +106,8 @@ Archived releases of this repository with a citeable DOI will be made at regular
 | acronym | technique                     |
 |---------|-------------------------------|
 | BERT    | bidirectional encoder representations from transformers |
+| CNN     | convolutional neural network  |
 | DT      | decision tree                 |
-| Faster R-CNN | a type of convolutional neural network |
 | KNN     | k-nearest neighbours          |
 | LDA     |  linear discriminant analysis |
 | LR      | logistic regression           |
@@ -116,7 +116,5 @@ Archived releases of this repository with a citeable DOI will be made at regular
 | MLP     | multi-layer perceptron        |
 | NB      | naive bayes                   |
 | NN      | neural network                |
-| Resnet  | a type of convolutional neural network |
 | RF      | random forest                 |
 | SVM     | support vector machine        |
-| U-Net   | a type of convolutional neural network |
