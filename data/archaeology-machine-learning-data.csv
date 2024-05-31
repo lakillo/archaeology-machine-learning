@@ -5,9 +5,9 @@ regression for stable isotope analysis,Funck et al,2020.0,chemical analysis,stro
 regression for stable isotope analysis,Bataille et al,2018.0,chemical analysis,strontium,RF,[paper](https://doi.org/10.1371/journal.pone.0197386),[code](https://doi.org/10.1371/journal.pone.0197386.s001),
 classification for ceramic elemental analysis,Charalambous et al,2016.0,chemical analysis,x-ray fluorescence,"KNN, DT, LVQ",[paper](https://doi.org/10.1016/j.jasrep.2015.08.010),,
 segmentation for carved reliefs,Ji et al,2023.0,image analysis,"RGB images, depth map, soft-edge images",CNN (DenseNet121),[paper](https://doi.org/10.3390/rs15040956),[code](),[data]()
-classification for ceramic sherds,Helden et al,2022.0,image analysis,RGB images,"CNN (""VGG19, Mobilenet v2, Resnet 50 v2, Inception v3"")",[paper](https://doi. org/10.5334/jcaa.92),[code](),[data]()
+classification for ceramic sherds,Helden et al,2022.0,image analysis,RGB images,"CNN (""VGG19, Mobilenet v2, Resnet 50 v2, Inception v3"")",[paper](https://doi.org/10.5334/jcaa.92),[code](),[data]()
 image classification for multiple artefact types,Resler et al,2021.0,image analysis,RGB images,CNN (EfficientNetB3),[paper](https://doi.org/10.1057/s41599-021-00970-z),[code](),[data](http://www.antiquities.org.il/t/default_en.aspx)
-image classification for ceramic petrography,Lyons,2021.0,image analysis,RGB images,"CNN (""VGG19, ResNet50"")",[paper](https://doi. org/10.5334/jcaa.75),[code](),[data]()
+image classification for ceramic petrography,Lyons,2021.0,image analysis,RGB images,"CNN (""VGG19, ResNet50"")",[paper](https://doi.org/10.5334/jcaa.75),[code](),[data]()
 proposed null dataset for lithics,Eren et al,2023.0,lithic analysis,"tbc, qual and quant info from naturally fractured rocks",,[paper](https://doi.org/10.15184/aqy.2023.4),[code](),[data]()
 classification for lithics,Grove and Blinkhorn,2020.0,lithic analysis,tabular (presence/absence),NN,[paper](https://doi.org/10.1371/journal.pone.0237528),[code](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237528#sec026),[data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237528#sec026)
 masked language modelling for archaeological text,Brandsen,2023.0,natural language processing,english language,BERT,[paper](https://doi.org/10.5281/zenodo.8300777),[model](https://huggingface.co/alexbrandsen/ArchaeoBERT),
