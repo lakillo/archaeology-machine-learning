@@ -77,10 +77,3 @@ For contributors, guidance on how to use this hierarchy to structure your contri
 | classification for soil geochemistry   | Oonk and Spijker     |   2015 | soil geochemistry         | kNN, SVM, NN | [paper](https://doi.org/10.1016/j.jas.2015.04.002)    | nan                                                       | nan                                                       |
 
 <!-- END APPLICATIONS -->
-
-# ⚙️ machine learning datasets for archaeology
-<!-- START DATASETS -->
-
-<!-- END DATASETS -->
-
----
