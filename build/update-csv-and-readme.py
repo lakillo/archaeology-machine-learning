@@ -24,7 +24,7 @@ df_with_dataset = df[contains_dataset]
 dfs_split = {group: group_df for group, group_df in df_without_dataset.groupby('application area')}
 
 # add the datasets dataframe to the dfs_split dictionary
-dfs_split['dataset'] = df_with_dataset
+dfs_split['datasets'] = df_with_dataset
 
 # keep only the dataframe columns needed for the README
 for key, df in dfs_split.items():
@@ -33,7 +33,7 @@ for key, df in dfs_split.items():
 # create a dictionary to map an emoji to each application area
 emoji_mapping = {
     'chemical analysis': '⚛️',
-    'dataset': '📊',
+    'datasets': '📊',
     'natural language processing': '📚️',
     'site detection': '🛰️',
     'site monitoring': '🔁',
