@@ -5,15 +5,15 @@
 # 👋 welcome to the archaeology machine learning repository
 
 ## 📖 introduction to the project
-Machine learning (ML) techniques present new ways of approaching archaeological research questions and interest in applying these methods continues to grow. 
-This repository documents the application of ML techniques to archaeological data, aiming to assist those working in the field by:
+Machine learning (ML) methods present new ways of approaching archaeological research questions and interest in applying these methods continues to grow. 
+This repository documents the application of ML methods to archaeological data, aiming to assist those working in the field by:
 
 * providing an overview of the ways ML is being applied in archaeology
 * sparking new ideas whilst reducing duplication of work
 * encouraging the sharing of code, data, and other resources
 * making resources more [FAIR](https://www.nature.com/articles/sdata201618) (Findable, Accessible, Interoperable, and Reuseable)
 
-By doing this, we hope to support practitioners to **learn about, critically apply, or contribute to conversations about, machine learning techniques for archaeology**.
+By doing this, we hope to support practitioners to **learn about, critically apply, or contribute to conversations about, machine learning methods for archaeology**.
 
 ## ✅ how to contribute
 This project is open for contributions! 
@@ -27,14 +27,14 @@ Archived releases of this repository with a citeable DOI will be made at regular
 This project was kicked off as part of [Open Seeds cohort 8](https://openlifesci.org/openseeds/ols-8/), and was inspired by these great projects: [satellite-image-deep-learning](https://github.com/satellite-image-deep-learning/), [Rchaeology](https://rchaeology.github.io/about/), [open-phytoliths](https://github.com/open-phytoliths), [AncientMetagenomeDir](https://github.com/SPAAM-community/AncientMetagenomeDir), and [open-archaeo](https://github.com/zackbatist/open-archaeo).
 
 ## 📁 repository contents
-Machine learning techniques can be described and categorised in a number of different ways, which can make the field confusing to navigate. The data structure of this repository aims to simplify things. It's based on a hierarchy of information which goes from the most general way of describing a technique to the most specific, e.g.:
+Machine learning methods can be described and categorised in a number of different ways, which can make the field confusing to navigate. The data structure of this repository aims to simplify things. It's based on a hierarchy of information which goes from the most general way of describing a method to the most specific, e.g.:
 
-> **application area** —> **task** —> **model/algorithm**
+> **application area** —> **task** —> **technique**
 
 For contributors, guidance on how to use this hierarchy to structure your contributions can be found in the [💅 repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-repo-style-guide).
 
-# ⚙️ machine learning techniques for archaeology
-<!-- START DATA -->
+# ⚙️ machine learning methods for archaeology
+<!-- START APPLICATIONS -->
 
 ## ⚛️ chemical analysis
 
@@ -76,6 +76,11 @@ For contributors, guidance on how to use this hierarchy to structure your contri
 | classification for habitat suitability | Jones et al          |   2019 | climate, topography       | RF           | [paper](https://doi.org/10.1111/jbi.13684)            | nan                                                       | nan                                                       |
 | classification for soil geochemistry   | Oonk and Spijker     |   2015 | soil geochemistry         | kNN, SVM, NN | [paper](https://doi.org/10.1016/j.jas.2015.04.002)    | nan                                                       | nan                                                       |
 
-<!-- END DATA -->
+<!-- END APPLICATIONS -->
+
+# ⚙️ machine learning datasets for archaeology
+<!-- START DATASETS -->
+
+<!-- END DATASETS -->
 
 ---

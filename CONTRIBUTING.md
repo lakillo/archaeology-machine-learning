@@ -45,7 +45,7 @@ Simple contributions of this kind are hugely appreciated and make all the differ
 ## 💅 repo style guide
 This repository's contents is written in [github flavored markdown](https://guides.github.com/features/mastering-markdown/). 
 
-As mentioned on the README, this repository aims to simplify the navigation of machine learning research and is based on a hierarchy of information which goes from the most general way of describing a technique to the most specific:
+As mentioned on the README, this repository aims to simplify the navigation of machine learning research and is based on a hierarchy of information which goes from the most general way of describing a method to the most specific:
 
 application area —> task —> model/algorithm
 
@@ -53,7 +53,7 @@ We recognise that this isn't going to cover all the details of every example, bu
 
 This is what the csv structure looks like:
 
-| task | author(s) | year | application area | data type | method | paper | code | data |
+| task | author(s) | year | application area | data type | technique | paper | code | data |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
@@ -82,7 +82,7 @@ And here's some specific guidelines for filling it in:
 	- english language text
 	- strontium
 
-5. **method** = the name of the main machine learning model/algorithm used. use acronyms if you can to keep it short, there will be a reference section to explain them, e.g.:
+5. **technique** = the name of the main machine learning model/algorithm used. use acronyms if you can to keep it short, there will be a reference section to explain them, e.g.:
 	- R-CNN
 	- BERT
 	- SVM

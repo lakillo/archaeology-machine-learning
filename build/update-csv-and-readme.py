@@ -13,8 +13,18 @@ df_sorted = df.sort_values(by=['application area', 'year'], ascending=[True, Fal
 with open('data/archaeology-machine-learning-data.csv', 'w') as file:
     file.write(df_sorted.to_csv(index=False))
 
+# identify dataframe rows containing the word 'dataset'
+contains_dataset = df_sorted['task'].str.contains('dataset', case=False, na=False)
+
+# Split the dataframe into two parts
+df_without_dataset = df[~contains_dataset]
+df_with_dataset = df[contains_dataset]
+
+# Concatenate the dataframes, with rows containing 'dataset' at the bottom
+df_final = pd.concat([df_without_dataset, df_with_dataset], ignore_index=True)
+
 # split the dataframe by application area
-dfs_split = {group: group_df for group, group_df in df_sorted.groupby('application area')}
+dfs_split = {group: group_df for group, group_df in df_final.groupby('application area')}
 
 # keep only the dataframe columns needed for the README
 for key, df in dfs_split.items():
@@ -23,11 +33,11 @@ for key, df in dfs_split.items():
 # create a dictionary to map an emoji to each application area
 emoji_mapping = {
     'chemical analysis': '⚛️',
+    'dataset': '📊'
     'natural language processing': '📚️',
     'site detection': '🛰️',
     'site monitoring': '🔁',
     'spatial predictive modelling': '🌏',
-    'new area': '📊',
     # insert new areas in the list in alphabetical order
 }
 
