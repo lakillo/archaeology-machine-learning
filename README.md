@@ -22,7 +22,7 @@ Check out our **[🗺️ roadmap](https://github.com/lakillo/archaeology-machine
 ## 🗞️ releases
 Archived releases of this repository with a citeable DOI will be made at regular intervals.
 
-# <mark> ⚙️ resources</mark>
+# ⚙️ resources
 Resources are split into sections by application area. Datasets are right at the end.
 
 <!-- START -->
@@ -73,3 +73,23 @@ Resources are split into sections by application area. Datasets are right at the
 | dataset for maya site detection      | Kokalj et al   |   2023 | lidar visualisation, lidar canopy height, SAR, optical satellite | object recognition, object detection, semantic segmentation | [paper](https://doi.org/10.1038/s41597-023-02455-x) |    nan | [data](https://doi.org/10.6084/m9.figshare.22202395) |
 
 <!-- END -->
+
+# 📖 glossary
+
+| acronym | technique                     |
+|---------|-------------------------------|
+| BERT    | bidirectional encoder representations from transformers |
+| DT      | decision tree                 |
+| Faster R-CNN | a type of convolutional neural network |
+| KNN     | k-nearest neighbours          |
+| LDA     |  linear discriminant analysis |
+| LR      | logistic regression           |
+| LVQ     | learning vector quantisation  |
+| MaxEnt  | maximum entropy               |
+| MLP     | multi-layer perceptron        |
+| NB      | naive bayes                   |
+| NN      | neural network                |
+| Resnet  | a type of convolutional neural network |
+| RF      | random forest                 |
+| SVM     | support vector machine        |
+| U-Net   | a type of convolutional neural network |
