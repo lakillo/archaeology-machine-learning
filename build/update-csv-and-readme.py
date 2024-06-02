@@ -32,14 +32,11 @@ for key, df in dfs_split.items():
 
 # create a dictionary to map an emoji to each application area
 emoji_mapping = {
-    'chemical analysis': '⚛️',
+    'artefact analysis': '🏺',
     'datasets': '📊',
-    'image analysis': '🌌',
-    'lithic analysis': '🪨',
+    'ecofact analysis': '🌱',
     'natural language processing': '📚️',
-    'site dating': '🗓️',
     'site detection': '🛰️',
-    'site monitoring': '🔁',
     'spatial predictive modelling': '🌏'
     # insert new areas in the list in alphabetical order
 }
