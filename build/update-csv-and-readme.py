@@ -37,6 +37,7 @@ emoji_mapping = {
     'image analysis': '🌌',
     'lithic analysis': '🪨',
     'natural language processing': '📚️',
+    'site dating': '🗓️',
     'site detection': '🛰️',
     'site monitoring': '🔁',
     'spatial predictive modelling': '🌏'
