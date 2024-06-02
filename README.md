@@ -50,19 +50,19 @@ Archived releases of this repository with a citeable DOI will be made at regular
 
 ## 🌌 image analysis
 
-| task                                       | authors       |   year | data type                               | technique                                             | paper                                                 |   code | data                                                    |
-|:-------------------------------------------|:--------------|-------:|:----------------------------------------|:------------------------------------------------------|:------------------------------------------------------|-------:|:--------------------------------------------------------|
-| segmentation for carved reliefs            | Ji et al      |   2023 | RGB images, depth map, soft-edge images | CNN [DenseNet121]                                     | [paper](https://doi.org/10.3390/rs15040956)           |    nan | nan                                                     |
-| classification for ceramic sherds          | Helden et al  |   2022 | RGB images                              | CNN [VGG19, Mobilenet v2, Resnet 50 v2, Inception v3] | [paper](https://doi.org/10.5334/jcaa.92)              |    nan | nan                                                     |
-| classification for multiple artefact types | Resler et al  |   2021 | RGB images                              | CNN [EfficientNetB3]                                  | [paper](https://doi.org/10.1057/s41599-021-00970-z)   |    nan | [data](http://www.antiquities.org.il/t/default_en.aspx) |
-| classification for ceramic petrography     | Lyons         |   2021 | RGB images                              | CNN [VGG19, ResNet50]                                 | [paper](https://doi.org/10.5334/jcaa.75)              |    nan | nan                                                     |
-| object detection for rock carvings         | Tsigkas et al |   2020 | RGB images                              | CNN [YOLOv2, TinyYOLO-v2]                             | [paper](https://doi.org/10.1016/j.patrec.2020.03.026) |    nan | nan                                                     |
+| task                                       | authors       |   year | data type                               | technique                                         | paper                                                 |   code | data                                                    |
+|:-------------------------------------------|:--------------|-------:|:----------------------------------------|:--------------------------------------------------|:------------------------------------------------------|-------:|:--------------------------------------------------------|
+| segmentation for carved reliefs            | Ji et al      |   2023 | RGB images, depth map, soft-edge images | CNN [DenseNet121]                                 | [paper](https://doi.org/10.3390/rs15040956)           |    nan | nan                                                     |
+| classification for ceramic sherds          | Helden et al  |   2022 | RGB images                              | CNN [VGG19, Mobilenetv2, ResNet50v2, Inceptionv3] | [paper](https://doi.org/10.5334/jcaa.92)              |    nan | nan                                                     |
+| classification for multiple artefact types | Resler et al  |   2021 | RGB images                              | CNN [EfficientNetB3]                              | [paper](https://doi.org/10.1057/s41599-021-00970-z)   |    nan | [data](http://www.antiquities.org.il/t/default_en.aspx) |
+| classification for ceramic petrography     | Lyons         |   2021 | RGB images                              | CNN [VGG19, ResNet50]                             | [paper](https://doi.org/10.5334/jcaa.75)              |    nan | nan                                                     |
+| object detection for rock carvings         | Tsigkas et al |   2020 | RGB images                              | CNN [YOLOv2, TinyYOLOv2]                          | [paper](https://doi.org/10.1016/j.patrec.2020.03.026) |    nan | nan                                                     |
 
 ## 🪨 lithic analysis
 
-| task                       | authors             |   year | data type                      | technique   | paper                                                 | code                                                                                     | data                                                                                     |
-|:---------------------------|:--------------------|-------:|:-------------------------------|:------------|:------------------------------------------------------|:-----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|
-| classification for lithics | Grove and Blinkhorn |   2020 | tabular [lithic types, period] | NN          | [paper](https://doi.org/10.1371/journal.pone.0237528) | [code](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237528#sec026) | [data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237528#sec026) |
+| task                       | authors             |   year | data type            | technique   | paper                                                 | code                                                                                     | data                                                                                     |
+|:---------------------------|:--------------------|-------:|:---------------------|:------------|:------------------------------------------------------|:-----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|
+| classification for lithics | Grove and Blinkhorn |   2020 | lithic types, period | NN          | [paper](https://doi.org/10.1371/journal.pone.0237528) | [code](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237528#sec026) | [data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237528#sec026) |
 
 ## 📚️ natural language processing
 
@@ -78,16 +78,16 @@ Archived releases of this repository with a citeable DOI will be made at regular
 
 ## 🗓️ site dating
 
-| task                           | authors   |   year | data type                                      | technique   | paper                                              | code                                                 | data     |
-|:-------------------------------|:----------|-------:|:-----------------------------------------------|:------------|:---------------------------------------------------|:-----------------------------------------------------|:---------|
-| classification for site dating | Reese     |   2021 | tabular [ceramic types, dendochronology dates] | NN          | [paper](https://doi.org/10.1016/j.jas.2021.105413) | [code](https://github.com/kmreese-io/Reese_2021-JAS) | [data]() |
+| task                           | authors   |   year | data type                            | technique   | paper                                              | code                                                 | data     |
+|:-------------------------------|:----------|-------:|:-------------------------------------|:------------|:---------------------------------------------------|:-----------------------------------------------------|:---------|
+| classification for site dating | Reese     |   2021 | ceramic types, dendochronology dates | NN          | [paper](https://doi.org/10.1016/j.jas.2021.105413) | [code](https://github.com/kmreese-io/Reese_2021-JAS) | [data]() |
 
 ## 🛰️ site detection
 
 | task                                  | authors                              |   year | data type            | technique          | paper                                                              | code                                                  |   data |
 |:--------------------------------------|:-------------------------------------|-------:|:---------------------|:-------------------|:-------------------------------------------------------------------|:------------------------------------------------------|-------:|
 | segmentation for field systems        | Küçükdemirci et al                   |   2022 | lidar DTMs           | CNN [U-Net]        | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886) | nan                                                   |    nan |
-| classification for hollow roads       | Verschoof-van der Vaart and Landauer |   2021 | lidar visualisations | CNN [Resnet-34]    | [paper](https://doi.org/10.1016/j.culher.2020.10.009)              | nan                                                   |    nan |
+| classification for hollow roads       | Verschoof-van der Vaart and Landauer |   2021 | lidar visualisations | CNN [ResNet34]     | [paper](https://doi.org/10.1016/j.culher.2020.10.009)              | nan                                                   |    nan |
 | object detection for mining pits      | Gallwey et al                        |   2019 | lidar DSM            | U-Net              | [paper](https://doi.org/10.3390/rs11171994)                        | [model](https://www.mdpi.com/2072-4292/11/17/1994/s1) |    nan |
 | object detection for multiple classes | Verschoof-van der Vaart and Lambers  |   2019 | lidar visualisations | CNN [Faster R-CNN] | [paper](https://doi.org/10.5334/jcaa.32)                           | nan                                                   |    nan |
 
