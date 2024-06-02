@@ -48,6 +48,13 @@ Archived releases of this repository with a citeable DOI will be made at regular
 | regression for stable isotope analysis        | Bataille et al     |   2018 | strontium          | RF                                 | [paper](https://doi.org/10.1371/journal.pone.0197386) | [code](https://doi.org/10.1371/journal.pone.0197386.s001)                       | nan                                                                              |
 | classification for ceramic elemental analysis | Charalambous et al |   2016 | x-ray fluorescence | KNN, DT, LVQ                       | [paper](https://doi.org/10.1016/j.jasrep.2015.08.010) | nan                                                                             | nan                                                                              |
 
+##  ecofact analysis
+
+| task                          | authors              |   year | data type               | technique               | paper                                                  | code                                                                            | data                                                      |
+|:------------------------------|:---------------------|-------:|:------------------------|:------------------------|:-------------------------------------------------------|:--------------------------------------------------------------------------------|:----------------------------------------------------------|
+| classification for phytoliths | Berganzo-Besga et al |   2022 | RGB images              | CNN [VGG19, ResNet50v2] | [paper](https://doi.org/10.1016/j.jas.2022.105654)     | [code](https://ars.els-cdn.com/content/image/1-s2.0-S0305440322001121-mmc1.zip) | nan                                                       |
+| classification for contexts   | Vos et al            |   2021 | geochemistry, phytolith | DT                      | [paper](https://doi.or g/10.1371/journal.pone.0248261) | nan                                                                             | [data](https://doi.org/10.1371/journal.pone.0248261.s001) |
+
 ## 🌌 image analysis
 
 | task                                       | authors       |   year | data type                               | technique                                         | paper                                                 |   code | data                                                    |

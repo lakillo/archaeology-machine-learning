@@ -4,6 +4,8 @@ regression for stable isotope analysis,Bataille et al,2020.0,chemical analysis,s
 regression for stable isotope analysis,Funck et al,2020.0,chemical analysis,strontium,RF,[paper](https://doi.org/10.1002/jqs.3262),,[data](https://onlinelibrary.wiley.com/doi/10.1002/jqs.3262)
 regression for stable isotope analysis,Bataille et al,2018.0,chemical analysis,strontium,RF,[paper](https://doi.org/10.1371/journal.pone.0197386),[code](https://doi.org/10.1371/journal.pone.0197386.s001),
 classification for ceramic elemental analysis,Charalambous et al,2016.0,chemical analysis,x-ray fluorescence,"KNN, DT, LVQ",[paper](https://doi.org/10.1016/j.jasrep.2015.08.010),,
+classification for phytoliths,Berganzo-Besga et al,2022.0,ecofact analysis,RGB images,"CNN [VGG19, ResNet50v2]",[paper](https://doi.org/10.1016/j.jas.2022.105654),[code](https://ars.els-cdn.com/content/image/1-s2.0-S0305440322001121-mmc1.zip),
+classification for contexts,Vos et al,2021.0,ecofact analysis,"geochemistry, phytolith",DT,[paper](https://doi.or g/10.1371/journal.pone.0248261),,[data](https://doi.org/10.1371/journal.pone.0248261.s001)
 segmentation for carved reliefs,Ji et al,2023.0,image analysis,"RGB images, depth map, soft-edge images",CNN [DenseNet121],[paper](https://doi.org/10.3390/rs15040956),,
 classification for ceramic sherds,Helden et al,2022.0,image analysis,RGB images,"CNN [VGG19, Mobilenetv2, ResNet50v2, Inceptionv3]",[paper](https://doi.org/10.5334/jcaa.92),,
 classification for multiple artefact types,Resler et al,2021.0,image analysis,RGB images,CNN [EfficientNetB3],[paper](https://doi.org/10.1057/s41599-021-00970-z),,[data](http://www.antiquities.org.il/t/default_en.aspx)
@@ -29,5 +31,3 @@ regression for roman sites,Castiello and Tonini,2021.0,spatial predictive modell
 regression for formative period sites,Yaworsky et al,2020.0,spatial predictive modelling,"environmental, topography","MaxEnt, RF",[paper](https://doi.org/10.1371/journal.pone.0239424),[code](https://doi.org/10.1371/journal.pone.0239424.s001),[data](https://doi.org/10.1371/journal.pone.0239424.s002)
 classification for habitat suitability,Jones et al,2019.0,spatial predictive modelling,"climate, topography",RF,[paper](https://doi.org/10.1111/jbi.13684),,
 classification for soil geochemistry,Oonk and Spijker,2015.0,spatial predictive modelling,soil geochemistry,"KNN, SVM, NN",[paper](https://doi.org/10.1016/j.jas.2015.04.002),,
-classification for phytoliths,Berganzo-Besga et al,2022,ecofact analysis,RGB images,"CNN [VGG19, ResNet50v2]",[paper](https://doi.org/10.1016/j.jas.2022.105654),[code](https://ars.els-cdn.com/content/image/1-s2.0-S0305440322001121-mmc1.zip)
-classification for contexts,Vos et al,2021,ecofact analysis,"geochemistry, phytolith",DT,[paper](https://doi.or g/10.1371/journal.pone.0248261),,[data](https://doi.org/10.1371/journal.pone.0248261.s001)
