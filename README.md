@@ -25,9 +25,8 @@ Archived releases of this repository with a citeable DOI will be made at regular
 # ⚙️ resources
 
 > 1. ML case studies (split by application area)
->    - [⚛️ chemical analysis](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#%EF%B8%8F-chemical-analysis)
->    - [🌌 image analysis](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-image-analysis)
->    - [🪨 lithic analysis](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-lithic-analysis)
+>    - [🏺 artefact analysis](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-artefact-analysis)
+>    - [🌱 ecofact analysis](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-ecofact-analysis)
 >    - [📚️ natural language processing](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#%EF%B8%8F-natural-language-processing)
 >    - [🛰️ site detection](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#%EF%B8%8F-site-detection)
 >    - [🌏 spatial predictive modelling](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-spatial-predictive-modelling)
