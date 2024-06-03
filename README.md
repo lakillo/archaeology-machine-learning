@@ -103,19 +103,20 @@ Archived releases of this repository with a citeable DOI will be made at regular
 
 # 📖 glossary
 
-| acronym | technique                     |
-|---------|-------------------------------|
+| acronym | technique                             |
+|---------|---------------------------------------|
 | BERT    | bidirectional encoder representations from transformers |
-| CNN     | convolutional neural network  |
-| DT      | decision tree                 |
+| CNN     | convolutional neural network          |
+| DT      | decision tree                         |
 | HAC     | hierarchical agglomerative clustering |
-| KNN     | k-nearest neighbours          |
-| LDA     |  linear discriminant analysis |
-| LR      | logistic regression           |
-| LVQ     | learning vector quantisation  |
-| MaxEnt  | maximum entropy               |
-| MLP     | multi-layer perceptron        |
-| NB      | naive bayes                   |
-| NN      | neural network                |
-| RF      | random forest                 |
-| SVM     | support vector machine        |
+| KNN     | k-nearest neighbours                  |
+| LDA     | linear discriminant analysis          |
+| LR      | logistic regression                   |
+| LVQ     | learning vector quantisation          |
+| MaxEnt  | maximum entropy                       |
+| MLP     | multi-layer perceptron                |
+| NB      | naive bayes                           |
+| NN      | neural network                        |
+| RF      | random forest                         |
+| SOM     | self-organizing map                   |
+| SVM     | support vector machine                |
