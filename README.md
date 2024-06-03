@@ -28,7 +28,7 @@ Archived releases of this repository with a citeable DOI will be made at regular
 >    - [🏺 artefact analysis](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-artefact-analysis)
 >    - [🌱 ecofact analysis](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-ecofact-analysis)
 >    - [📚️ natural language processing](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#%EF%B8%8F-natural-language-processing)
->    - [🛰️ site detection](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#%EF%B8%8F-site-detection)
+>    - [🛰️ remote sensing feature detection](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#%EF%B8%8F-site-detection)
 >    - [🌏 spatial predictive modelling](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-spatial-predictive-modelling)
 > 2. [📊 datasets](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-datasets)
 > 3. [📖 glossary of technique names](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-glossary)
@@ -112,6 +112,7 @@ Archived releases of this repository with a citeable DOI will be made at regular
 | KNN     | k-nearest neighbours                  |
 | LDA     | linear discriminant analysis          |
 | LR      | logistic regression                   |
+| LSTM    | long short-term memory network        |
 | LVQ     | learning vector quantisation          |
 | MaxEnt  | maximum entropy                       |
 | MLP     | multi-layer perceptron                |
