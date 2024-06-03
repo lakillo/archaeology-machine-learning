@@ -36,7 +36,7 @@ emoji_mapping = {
     'datasets': '📊',
     'ecofact analysis': '🌱',
     'natural language processing': '📚️',
-    'site detection': '🛰️',
+    'remote sensing feature detection': '🛰️',
     'spatial predictive modelling': '🌏'
     # insert new areas in the list in alphabetical order
 }
