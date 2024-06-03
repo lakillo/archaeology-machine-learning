@@ -108,6 +108,7 @@ Archived releases of this repository with a citeable DOI will be made at regular
 | BERT    | bidirectional encoder representations from transformers |
 | CNN     | convolutional neural network  |
 | DT      | decision tree                 |
+| HAC     | hierarchical agglomerative clustering |
 | KNN     | k-nearest neighbours          |
 | LDA     |  linear discriminant analysis |
 | LR      | logistic regression           |
