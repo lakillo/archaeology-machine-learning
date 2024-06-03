@@ -73,19 +73,14 @@ Archived releases of this repository with a citeable DOI will be made at regular
 
 ## 🛰️ remote sensing feature detection
 
-| task                             | authors                |   year | data type                                  | technique                 | paper                                                    |   code |   data |
-|:---------------------------------|:-----------------------|-------:|:-------------------------------------------|:--------------------------|:---------------------------------------------------------|-------:|-------:|
-| classification for war landforms | de Matos-Machado et al |   2019 | morphometric measurements                  | SOM, HAC                  | [paper](https://doi.org/10.1002/esp.4586)                |    nan |    nan |
-| classification for land use      | Mboga et al            |   2020 | panchromatic historical aerial photographs | CNN [FCN-ATR-SKIP, U-Net] | [paper](https://doi.org/10.1016/j.isprsjprs.2020.07.005) |    nan |    nan |
-
-##  site detection
-
-| task                                  | authors                              |   year | data type            | technique          | paper                                                              | code                                                  |   data |
-|:--------------------------------------|:-------------------------------------|-------:|:---------------------|:-------------------|:-------------------------------------------------------------------|:------------------------------------------------------|-------:|
-| segmentation for field systems        | Küçükdemirci et al                   |   2022 | lidar DTMs           | CNN [U-Net]        | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886) | nan                                                   |    nan |
-| classification for hollow roads       | Verschoof-van der Vaart and Landauer |   2021 | lidar visualisations | CNN [ResNet34]     | [paper](https://doi.org/10.1016/j.culher.2020.10.009)              | nan                                                   |    nan |
-| object detection for mining pits      | Gallwey et al                        |   2019 | lidar DSM            | U-Net              | [paper](https://doi.org/10.3390/rs11171994)                        | [model](https://www.mdpi.com/2072-4292/11/17/1994/s1) |    nan |
-| object detection for multiple classes | Verschoof-van der Vaart and Lambers  |   2019 | lidar visualisations | CNN [Faster R-CNN] | [paper](https://doi.org/10.5334/jcaa.32)                           | nan                                                   |    nan |
+| task                                  | authors                              |   year | data type                                  | technique                 | paper                                                              | code                                                  |   data |
+|:--------------------------------------|:-------------------------------------|-------:|:-------------------------------------------|:--------------------------|:-------------------------------------------------------------------|:------------------------------------------------------|-------:|
+| classification for land use           | Mboga et al                          |   2020 | panchromatic historical aerial photographs | CNN [FCN-ATR-SKIP, U-Net] | [paper](https://doi.org/10.1016/j.isprsjprs.2020.07.005)           | nan                                                   |    nan |
+| classification for war landforms      | de Matos-Machado et al               |   2019 | morphometric measurements                  | SOM, HAC                  | [paper](https://doi.org/10.1002/esp.4586)                          | nan                                                   |    nan |
+| segmentation for field systems        | Küçükdemirci et al                   |   2022 | lidar DTMs                                 | CNN [U-Net]               | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1886) | nan                                                   |    nan |
+| classification for hollow roads       | Verschoof-van der Vaart and Landauer |   2021 | lidar visualisations                       | CNN [ResNet34]            | [paper](https://doi.org/10.1016/j.culher.2020.10.009)              | nan                                                   |    nan |
+| object detection for mining pits      | Gallwey et al                        |   2019 | lidar DSM                                  | U-Net                     | [paper](https://doi.org/10.3390/rs11171994)                        | [model](https://www.mdpi.com/2072-4292/11/17/1994/s1) |    nan |
+| object detection for multiple classes | Verschoof-van der Vaart and Lambers  |   2019 | lidar visualisations                       | CNN [Faster R-CNN]        | [paper](https://doi.org/10.5334/jcaa.32)                           | nan                                                   |    nan |
 
 ## 🌏 spatial predictive modelling
 
