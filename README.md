@@ -1,5 +1,6 @@
 [![license: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![GitHub issues](https://img.shields.io/github/issues/lakillo/archaeology-machine-learning)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13220872.svg)](https://doi.org/10.5281/zenodo.13220872)
+<!-- ![GitHub issues](https://img.shields.io/github/issues/lakillo/archaeology-machine-learning) -->
 <!-- [![visits](https://hits.sh/github.com/lakillo/archaeology-machine-learning.svg?label=visits&color=11cc9a)](https://hits.sh/github.com/lakillo/archaeology-machine-learning/) -->
 
 # 👋 welcome to the archaeology machine learning repository
@@ -12,15 +13,15 @@ This repository collects resources relating to the application of ML methods to 
 * provide an overview of the ways ML is being applied in archaeology
 * spark new ideas whilst reducing duplication of work
 * encourage the sharing of code, data, and other resources
-* make resources more [FAIR](https://www.nature.com/articles/sdata201618) (Findable, Accessible, Interoperable, and Reuseable)
+* make resources more **[FAIR](https://www.nature.com/articles/sdata201618) (Findable, Accessible, Interoperable, and Reuseable)**
 
 By doing this, we hope to support practitioners to **learn about, critically apply, or contribute to conversations about, ML in archaeology**.
 
 ## ✅ how to contribute
 Check out our **[🗺️ roadmap](https://github.com/lakillo/archaeology-machine-learning/issues/3)** for an overview of what we're working on, or go straight to the **[✅ contributor guidelines](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md)**.
 
-## 🗞️ releases
-Archived releases of this repository with a citeable DOI will be made at regular intervals.
+## 🔗 citeable releases
+Please cite the project if you've found it useful. Releases are made at regular intervals and **[archived on Zenodo](https://zenodo.org/records/13220872)**.
 
 # ⚙️ resources
 
