@@ -37,4 +37,4 @@ regression for strontium isoscapes,Funck et al.,2020.0,spatial predictive modell
 classification for habitat suitability,Jones et al.,2019.0,spatial predictive modelling,"climate, topography",RF,[paper](https://doi.org/10.1111/jbi.13684),,
 regression for strontium isoscapes,Bataille et al.,2018.0,spatial predictive modelling,"strontium, geology, climate, environmental, topographic ",RF,[paper](https://doi.org/10.1371/journal.pone.0197386),[code](https://doi.org/10.1371/journal.pone.0197386.s001),
 classification for soil geochemistry,Oonk and Spijker,2015.0,spatial predictive modelling,soil geochemistry,"KNN, SVM, NN",[paper](https://doi.org/10.1016/j.jas.2015.04.002),,
-regression for neolithic sites|Li et al.|2023.3|spatial predictive modelling|topography, hydrology|RF|[paper](https://doi.org/10.1515/geo-2022-0467)||,,,,,,,
+regression for neolithic sites,Li et al.,2023.3,spatial predictive modelling,"topography, hydrology",RF,[paper](https://doi.org/10.1515/geo-2022-0467),,
