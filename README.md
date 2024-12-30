@@ -26,13 +26,13 @@ Please cite the project if you've found it useful. Releases are made at regular 
 # ⚙️ resources
 
 > 1. ML case studies (split by application area)
->    - [🏺 artefact analysis](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-artefact-analysis)
->    - [🌱 ecofact analysis](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-ecofact-analysis)
->    - [📚️ natural language processing](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#%EF%B8%8F-natural-language-processing)
->    - [🛰️ remote sensing feature detection](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#%EF%B8%8F-remote-sensing-feature-detection)
->    - [🌏 spatial predictive modelling](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-spatial-predictive-modelling)
-> 2. [📊 datasets](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-datasets)
-> 3. [📖 glossary of technique names](https://github.com/lakillo/archaeology-machine-learning?tab=readme-ov-file#-glossary)
+>    - [🏺 artefact analysis](#-artefact-analysis)
+>    - [🌱 ecofact analysis](#-ecofact-analysis)
+>    - [📚️ natural language processing](#%EF%B8%8F-natural-language-processing)
+>    - [🛰️ remote sensing feature detection](#%EF%B8%8F-remote-sensing-feature-detection)
+>    - [🌏 spatial predictive modelling](#-spatial-predictive-modelling)
+> 2. [📊 datasets](#-datasets)
+> 3. [📖 glossary of technique names](#-glossary)
 
 ---
 
