@@ -70,26 +70,26 @@ And here's some specific guidelines for filling it in:
 3. **year** = year of publication/creation
 
 4. **application area** = this column is important as it categorises all the data on the README. choose the overall domain of the example from the existing column values, e.g.:
-	🏺 artefact analysis
-    	🌱 ecofact analysis
-    	📚️ natural language processing
-    	🛰️ remote sensing feature detection
-    	🌏 spatial predictive modelling
-   	OR add new areas as needed (see next section)
+	- 🏺 artefact analysis
+    	- 🌱 ecofact analysis
+    	- 📚️ natural language processing
+    	- 🛰️ remote sensing feature detection
+    	- 🌏 spatial predictive modelling
+   	- OR add new areas as needed (see next section)
 
 5. **data type** = the kind of data that the example uses, e.g.:
-	lidar visualisations
-	DEM
-	english language text
-	strontium
+	- lidar visualisations
+ 	- DEM
+	- english language text
+	- strontium
 
 6. **technique** = the name of the main machine learning model/algorithm used. use acronyms if you can to keep it short, there will be a reference section to explain them, e.g.:
-	R-CNN
-	BERT
-	SVM
+	- R-CNN
+	- BERT
+	- SVM
 
 7. **paper** = link to paper if published (DOI preferred)
-	if not published, add a relevant link for information about the example
+	- if not published, add a relevant link for information about the example
 
 8. **code** = link to the code or model (DOI preferred)
 
