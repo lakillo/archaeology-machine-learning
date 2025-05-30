@@ -29,7 +29,6 @@ classification for land use,Mboga et al.,2020.0,remote sensing feature detection
 classification for war landforms,de Matos-Machado et al.,2019.0,remote sensing feature detection,morphometric measurements,"SOM, HAC",[paper](https://doi.org/10.1002/esp.4586),,
 object detection for mining pits,Gallwey et al.,2019.0,remote sensing feature detection,lidar DSM,U-Net,[paper](https://doi.org/10.3390/rs11171994),[model](https://www.mdpi.com/2072-4292/11/17/1994/s1),
 object detection for multiple classes,Verschoof-van der Vaart and Lambers,2019.0,remote sensing feature detection,lidar visualisations [simple local relief model],CNN [Faster R-CNN],[paper](https://doi.org/10.5334/jcaa.32),,
-regression for neolithic sites,Li et al.,2023.3,spatial predictive modelling,"topography, hydrology",RF,[paper](https://doi.org/10.1515/geo-2022-0467),,
 regression for neolithic sites,Li et al.,2023.0,spatial predictive modelling,"topography, hydrology",RF,[paper](https://doi.org/10.1515/geo-2022-0467),,
 classification for site dating,Reese,2021.0,spatial predictive modelling,"ceramic types, dendochronology dates",NN,[paper](https://doi.org/10.1016/j.jas.2021.105413),[code](https://github.com/kmreese-io/Reese_2021-JAS),[data]()
 regression for roman sites,Castiello and Tonini,2021.0,spatial predictive modelling,"soil, topography",RF,[paper](https://doi.org/10.5334/jcaa.71),,
