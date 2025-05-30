@@ -70,12 +70,12 @@ And here's some specific guidelines for filling it in:
 3. **year** = year of publication/creation
 
 4. **application area** = this column is important as it categorises all the data on the README. choose the overall domain of the example from the existing column values, e.g.:
-	- 🏺 artefact analysis
-    	- 🌱 ecofact analysis
-    	- 📚️ natural language processing
-    	- 🛰️ remote sensing feature detection
-    	- 🌏 spatial predictive modelling
-   	- OR add new areas as needed (see next section)
+	- artefact analysis
+	- ecofact analysis
+	- natural language processing
+	- remote sensing feature detection
+	- spatial predictive modelling
+	- OR add new areas as needed (see next section)
 
 5. **data type** = the kind of data that the example uses, e.g.:
 	- lidar visualisations
