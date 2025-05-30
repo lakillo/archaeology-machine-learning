@@ -131,3 +131,4 @@ Please cite the project if you've found it useful. Releases are made at regular 
 | RF      | random forest                         |
 | SOM     | self-organizing map                   |
 | SVM     | support vector machine                |
+| VAT     | visualization for archaeological topography ([paper](https://doi.org/10.3390/rs11070747)) |
