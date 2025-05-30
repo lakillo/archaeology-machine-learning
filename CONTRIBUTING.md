@@ -53,7 +53,7 @@ We recognise that this isn't going to cover all the details of every example, bu
 
 This is what the csv structure looks like:
 
-| task | author(s) | year | application area | data type | technique | paper | code | data |
+| task | authors | year | application area | data type | technique | paper | code | data |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
@@ -65,34 +65,35 @@ And here's some specific guidelines for filling it in:
 	- [classification] for [soil geochemistry]
 	- [regression] for [stable isotope analysis]
 
-1. **author(s)** = author(s) last name (+ et al if 3 or more authors)
+2. **author(s)** = author(s) last name (+ et al if 3 or more authors)
 
-2. **year** = year of publication/creation
+3. **year** = year of publication/creation
 
-3. **application area** = this column is important as it categorises all the data on the README. choose the overall domain of the example from the existing column values, e.g.:
-	- chemical analysis
-	- natural language processing
-	- site prospection/monitoring
-	- spatial predictive modelling
-	- OR add new areas as needed (see next section)
+4. **application area** = this column is important as it categorises all the data on the README. choose the overall domain of the example from the existing column values, e.g.:
+	🏺 artefact analysis
+    	🌱 ecofact analysis
+    	📚️ natural language processing
+    	🛰️ remote sensing feature detection
+    	🌏 spatial predictive modelling
+   	OR add new areas as needed (see next section)
 
-4. **data type** = the kind of data that the example uses, e.g.:
-	- lidar visualisations
-	- DEM
-	- english language text
-	- strontium
+5. **data type** = the kind of data that the example uses, e.g.:
+	lidar visualisations
+	DEM
+	english language text
+	strontium
 
-5. **technique** = the name of the main machine learning model/algorithm used. use acronyms if you can to keep it short, there will be a reference section to explain them, e.g.:
-	- R-CNN
-	- BERT
-	- SVM
+6. **technique** = the name of the main machine learning model/algorithm used. use acronyms if you can to keep it short, there will be a reference section to explain them, e.g.:
+	R-CNN
+	BERT
+	SVM
 
-1. **paper** = link to paper if published (DOI preferred)
+7. **paper** = link to paper if published (DOI preferred)
+	if not published, add a relevant link for information about the example
 
-	- if not published, add a relevant link for information about the example
-2. **code** = link to the code or model (DOI preferred)
+8. **code** = link to the code or model (DOI preferred)
 
-3. **data** = link to the dataset (DOI preferred)
+9. **data** = link to the dataset (DOI preferred)
 
 ## 🌱 adding a new application area
 If the example you're adding doesn't have its domain represented, simply enter a new value for the overall domain of the example in the application area column of the csv.
