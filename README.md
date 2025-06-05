@@ -18,7 +18,21 @@ This repository collects resources relating to the application of ML methods to 
 By doing this, we hope to support practitioners to **learn about, critically apply, or contribute to conversations about, ML in archaeology**.
 
 ## ✅ how to contribute
-Check out our **[🗺️ roadmap](https://github.com/lakillo/archaeology-machine-learning/issues/3)** for an overview of what we're working on, or go straight to the **[✅ contributor guidelines](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md)**.
+Add one or more resources to **the repo's csv file**! Here's how:
+
+1. take note of the [💅 repo style guide](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-repo-style-guide)
+2. fork and clone the repo, and make a new branch (see instructions in [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request))
+3. add your contributions to the csv file (data/archaeology-machine-learning-data.csv)
+
+> [!IMPORTANT]
+> Add your resource contributions to **the next available row of the csv file**, not the README
+> 
+> We have a github action which automatically sorts the csv and builds the README once pull requests are merged 🧹🤖
+
+3. [🎣 make a pull request](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md#-making-a-pull-request)
+
+Since this project is about collecting resources, this is the most simple and helpful contribution you could make. For more ideas about how to contribute, check out our **[✅ contributor guidelines](https://github.com/lakillo/archaeology-machine-learning/blob/main/CONTRIBUTING.md)** or the project's **[🗺️ roadmap](https://github.com/lakillo/archaeology-machine-learning/issues/3)**.
+
 
 ## 🔗 citeable releases
 Please cite the project if you've found it useful. Releases are made at regular intervals and **[archived on Zenodo](https://zenodo.org/records/13220872)**.
