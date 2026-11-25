@@ -8,6 +8,7 @@ on:
     paths:
       - 'data/**/*.csv'
     types: [closed]
+  workflow_dispatch:
 
 permissions:
   contents: write
