@@ -9,6 +9,9 @@ on:
       - 'data/**/*.csv'
     types: [closed]
 
+permissions:
+  contents: write
+  
 jobs:
   update_readme:
     runs-on: ubuntu-latest
